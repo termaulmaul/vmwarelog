@@ -1,0 +1,1385 @@
+2023-03-05T20:54:50.310Z In(05) mks Log for VMware Fusion pid=16564 version=13.0.1 build=build-21139760 option=Release
+2023-03-05T20:54:50.310Z In(05) mks The host is 64-bit Arm.
+2023-03-05T20:54:50.310Z In(05) mks Host codepage=UTF-8 encoding=UTF-8
+2023-03-05T20:54:50.310Z In(05) mks Host is macOS 13.2.1 (22D68) Darwin 22.3.0
+2023-03-05T20:54:50.310Z In(05) mks Host offset from UTC is +07:00.
+2023-03-05T20:54:50.335Z In(05) main  VTHREAD 8779759936 "main" tid 2173247
+2023-03-05T20:54:50.336Z In(05) main  MKSRoleMain: Initializing MKSSandbox...
+2023-03-05T20:54:50.336Z In(05) main  MKSRoleMain: Initializing FeatureState...
+2023-03-05T20:54:50.336Z In(05) main  MKSRoleMain: Initializing Locale...
+2023-03-05T20:54:50.338Z In(05) main  Msg_SetLocaleEx: HostLocale=UTF-8 UserLocale=en
+2023-03-05T20:54:50.339Z In(05) main  DictionaryLoad: Cannot open file "/Applications/VMware Fusion.app/Contents/Library/messages/en/vmware-mks.vmsg": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  MKSRoleMain: Initializing Preference...
+2023-03-05T20:54:50.339Z In(05) main  DictionaryLoad: Cannot open file "/Library/Preferences/VMware Fusion/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  [msg.dictionary.load.openFailed] Cannot open file "/Library/Preferences/VMware Fusion/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  PREF Optional preferences file not found at /Library/Preferences/VMware Fusion/config. Using default values.
+2023-03-05T20:54:50.339Z In(05) main  DictionaryLoad: Cannot open file "/Applications/VMware Fusion.app/Contents/Library/settings": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  [msg.dictionary.load.openFailed] Cannot open file "/Applications/VMware Fusion.app/Contents/Library/settings": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  PREF Optional preferences file not found at /Applications/VMware Fusion.app/Contents/Library/settings. Using default values.
+2023-03-05T20:54:50.339Z In(05) main  DictionaryLoad: Cannot open file "/Applications/VMware Fusion.app/Contents/Library/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  [msg.dictionary.load.openFailed] Cannot open file "/Applications/VMware Fusion.app/Contents/Library/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  PREF Optional preferences file not found at /Applications/VMware Fusion.app/Contents/Library/config. Using default values.
+2023-03-05T20:54:50.339Z In(05) main  DictionaryLoad: Cannot open file "/Users/maul/Library/Preferences/VMware Fusion/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  [msg.dictionary.load.openFailed] Cannot open file "/Users/maul/Library/Preferences/VMware Fusion/config": No such file or directory.
+2023-03-05T20:54:50.339Z In(05) main  PREF Optional preferences file not found at /Users/maul/Library/Preferences/VMware Fusion/config. Using default values.
+2023-03-05T20:54:50.340Z In(05) main  MKSRoleMain: Initializing Poll...
+2023-03-05T20:54:50.341Z In(05) main  MKSRoleMain: Initializing Log...
+2023-03-05T20:54:50.341Z In(05) main  MKSRoleMain: Running as Native process.
+2023-03-05T20:54:50.341Z In(05) main  MKSRoleMain: Found Config Settings:
+2023-03-05T20:54:50.341Z In(05) main  DICT --- GLOBAL SETTINGS /Applications/VMware Fusion.app/Contents/Library/settings
+2023-03-05T20:54:50.341Z In(05) main  DICT --- NON PERSISTENT (null)
+2023-03-05T20:54:50.341Z In(05) main  DICT --- USER PREFERENCES /Users/maul/Library/Preferences/VMware Fusion/preferences
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.dataCollectionEnabled.epoch = ""
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.dataCollectionEnabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.defaultProfileKey = "5298d7c8-8f11-6dd3-21f0-c299fe42e429"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.maxProfiles = "4"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.profileKey = "5236e019-56ee-0fd6-8cd8-6ae17e470d3f"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.profileName = "Mac Profile"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.profileType = "mac"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.enableOSShortcuts = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.enableKeyMappings = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.languageSpecificKeyMappingsEnabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.selectedLanguage = ""
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.cmdKeyFilterType = "none"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.maxMappings = "14"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping0.mappingKey = "0"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping0.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping0.fromHost = "Mouse1 Control"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping0.toGuest = "Mouse2"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping1.mappingKey = "1"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping1.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping1.fromHost = "Mouse1 GUI"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping1.toGuest = "Mouse3"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping2.mappingKey = "2"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping2.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping2.fromHost = "GUI CONTROL"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping2.toGuest = "Ungrab"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping3.mappingKey = "3"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping3.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping3.fromHost = "GUI CONTROL F"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping3.toGuest = "Fullscreen"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping4.mappingKey = "4"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping4.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping4.fromHost = "GUI CONTROL U"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping4.toGuest = "Unity"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping5.mappingKey = "5"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping5.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping5.fromHost = "GUI SHIFT U"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping5.toGuest = "Unity"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping6.mappingKey = "6"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping6.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping6.fromHost = "GUI CONTROL S"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping6.toGuest = "SingleWindow"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping7.mappingKey = "7"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping7.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping7.fromHost = "GUI 0x029"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping7.toGuest = "CycleWindow"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping8.mappingKey = "8"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping8.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping8.fromHost = "GUI SHIFT 0x029"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping8.toGuest = "CycleWindowReverse"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping9.mappingKey = "9"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping9.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping9.fromHost = "GUI H"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping9.toGuest = "HideApplication"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping10.mappingKey = "10"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping10.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping10.fromHost = "GUI M"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping10.toGuest = "MinimizeWindow"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping11.mappingKey = "11"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping11.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping11.fromHost = "GUI Q"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping11.toGuest = "Quit"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping12.mappingKey = "12"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping12.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping12.fromHost = "GUI SHIFT M"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping12.toGuest = "ToggleHideMenu"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping13.mappingKey = "13"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping13.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping13.fromHost = "GUI E"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile0.mapping13.toGuest = "Settings"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.profileKey = "525c7d54-1a6c-c189-2e08-9898f96ff1ee"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.profileName = "Windows 10 Profile"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.profileType = "windows9"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.enableOSShortcuts = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.enableKeyMappings = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.languageSpecificKeyMappingsEnabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.selectedLanguage = ""
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.cmdKeyFilterType = "none"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.maxMappings = "30"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping0.mappingKey = "0"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping0.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping0.fromHost = "GUI Z"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping0.toGuest = "CONTROL Z"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping1.mappingKey = "1"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping1.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping1.fromHost = "GUI X"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping1.toGuest = "CONTROL X"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping2.mappingKey = "2"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping2.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping2.fromHost = "GUI C"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping2.toGuest = "CONTROL C"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping3.mappingKey = "3"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping3.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping3.fromHost = "GUI V"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping3.toGuest = "CONTROL V"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping4.mappingKey = "4"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping4.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping4.fromHost = "GUI P"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping4.toGuest = "CONTROL P"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping5.mappingKey = "5"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping5.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping5.fromHost = "GUI A"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping5.toGuest = "CONTROL A"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping6.mappingKey = "6"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping6.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping6.fromHost = "GUI S"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping6.toGuest = "CONTROL S"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping7.mappingKey = "7"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping7.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping7.fromHost = "GUI F"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping7.toGuest = "0x03d"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping8.mappingKey = "8"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping8.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping8.fromHost = "GUI W"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping8.toGuest = "ALT 0x03e"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping9.mappingKey = "9"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping9.enabled = "TRUE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping9.fromHost = "CONTROL ALT 0xe"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping9.toGuest = "CONTROL ALT 0x153"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping10.mappingKey = "10"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping10.enabled = "FALSE"
+2023-03-05T20:54:50.341Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping10.fromHost = "0x11c"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping10.toGuest = "0x138"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping11.mappingKey = "11"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping11.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping11.fromHost = "GUI SHIFT H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping11.toGuest = "GUI H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping12.mappingKey = "12"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping12.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping12.fromHost = "GUI SHIFT M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping12.toGuest = "GUI M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping13.mappingKey = "13"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping13.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping13.fromHost = "GUI SHIFT P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping13.toGuest = "GUI P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping14.mappingKey = "14"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping14.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping14.fromHost = "GUI SHIFT V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping14.toGuest = "GUI V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping15.mappingKey = "15"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping15.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping15.fromHost = "GUI SHIFT X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping15.toGuest = "GUI X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping16.mappingKey = "16"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping16.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping16.fromHost = "GUI SHIFT Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping16.toGuest = "GUI Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping17.mappingKey = "17"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping17.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping17.fromHost = "Mouse1 Control"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping17.toGuest = "Mouse2"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping18.mappingKey = "18"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping18.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping18.fromHost = "Mouse1 GUI"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping18.toGuest = "Mouse3"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping19.mappingKey = "19"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping19.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping19.fromHost = "GUI CONTROL"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping19.toGuest = "Ungrab"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping20.mappingKey = "20"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping20.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping20.fromHost = "GUI CONTROL F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping20.toGuest = "Fullscreen"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping21.mappingKey = "21"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping21.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping21.fromHost = "GUI SHIFT U"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping21.toGuest = "Unity"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping22.mappingKey = "22"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping22.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping22.fromHost = "GUI CONTROL S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping22.toGuest = "SingleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping23.mappingKey = "23"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping23.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping23.fromHost = "GUI 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping23.toGuest = "CycleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping24.mappingKey = "24"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping24.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping24.fromHost = "GUI SHIFT 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping24.toGuest = "CycleWindowReverse"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping25.mappingKey = "25"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping25.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping25.fromHost = "GUI H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping25.toGuest = "HideApplication"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping26.mappingKey = "26"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping26.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping26.fromHost = "GUI M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping26.toGuest = "MinimizeWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping27.mappingKey = "27"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping27.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping27.fromHost = "GUI Q"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping27.toGuest = "Quit"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping28.mappingKey = "28"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping28.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping28.fromHost = "GUI ALT SHIFT M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping28.toGuest = "ToggleHideMenu"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping29.mappingKey = "29"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping29.enabled = "FALSE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping29.fromHost = "GUI E"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile1.mapping29.toGuest = "Settings"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.profileKey = "5298d7c8-8f11-6dd3-21f0-c299fe42e429"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.profileName = "Profile"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.profileType = "standard"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.enableOSShortcuts = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.enableKeyMappings = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.languageSpecificKeyMappingsEnabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.selectedLanguage = ""
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.cmdKeyFilterType = "none"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.maxMappings = "25"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping0.mappingKey = "0"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping0.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping0.fromHost = "GUI Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping0.toGuest = "CONTROL Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping1.mappingKey = "1"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping1.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping1.fromHost = "GUI X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping1.toGuest = "CONTROL X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping2.mappingKey = "2"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping2.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping2.fromHost = "GUI C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping2.toGuest = "CONTROL C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping3.mappingKey = "3"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping3.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping3.fromHost = "GUI V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping3.toGuest = "CONTROL V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping4.mappingKey = "4"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping4.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping4.fromHost = "GUI P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping4.toGuest = "CONTROL P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping5.mappingKey = "5"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping5.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping5.fromHost = "GUI A"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping5.toGuest = "CONTROL A"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping6.mappingKey = "6"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping6.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping6.fromHost = "GUI S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping6.toGuest = "CONTROL S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping7.mappingKey = "7"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping7.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping7.fromHost = "GUI F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping7.toGuest = "0x03d"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping8.mappingKey = "8"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping8.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping8.fromHost = "GUI W"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping8.toGuest = "ALT 0x03e"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping9.mappingKey = "9"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping9.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping9.fromHost = "CONTROL ALT 0xe"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping9.toGuest = "CONTROL ALT 0x153"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping10.mappingKey = "10"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping10.enabled = "FALSE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping10.fromHost = "0x11c"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping10.toGuest = "0x138"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping11.mappingKey = "11"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping11.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping11.fromHost = "Mouse1 Control"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping11.toGuest = "Mouse2"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping12.mappingKey = "12"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping12.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping12.fromHost = "Mouse1 GUI"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping12.toGuest = "Mouse3"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping13.mappingKey = "13"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping13.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping13.fromHost = "GUI CONTROL"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping13.toGuest = "Ungrab"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping14.mappingKey = "14"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping14.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping14.fromHost = "GUI CONTROL F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping14.toGuest = "Fullscreen"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping15.mappingKey = "15"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping15.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping15.fromHost = "GUI CONTROL U"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping15.toGuest = "Unity"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping16.mappingKey = "16"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping16.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping16.fromHost = "GUI SHIFT U"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping16.toGuest = "Unity"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping17.mappingKey = "17"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping17.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping17.fromHost = "GUI CONTROL S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping17.toGuest = "SingleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping18.mappingKey = "18"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping18.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping18.fromHost = "GUI 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping18.toGuest = "CycleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping19.mappingKey = "19"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping19.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping19.fromHost = "GUI SHIFT 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping19.toGuest = "CycleWindowReverse"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping20.mappingKey = "20"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping20.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping20.fromHost = "GUI H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping20.toGuest = "HideApplication"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping21.mappingKey = "21"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping21.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping21.fromHost = "GUI M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping21.toGuest = "MinimizeWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping22.mappingKey = "22"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping22.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping22.fromHost = "GUI Q"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping22.toGuest = "Quit"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping23.mappingKey = "23"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping23.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping23.fromHost = "GUI SHIFT M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping23.toGuest = "ToggleHideMenu"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping24.mappingKey = "24"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping24.enabled = "FALSE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping24.fromHost = "GUI E"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile2.mapping24.toGuest = "Settings"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.profileKey = "52e9203d-19b6-55a2-fbf8-a5a1b110d9df"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.profileName = "Windows 8 Profile"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.profileType = "windows8"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.enableOSShortcuts = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.enableKeyMappings = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.languageSpecificKeyMappingsEnabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.selectedLanguage = ""
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.cmdKeyFilterType = "none"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.maxMappings = "33"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping0.mappingKey = "0"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping0.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping0.fromHost = "GUI Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping0.toGuest = "CONTROL Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping1.mappingKey = "1"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping1.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping1.fromHost = "GUI X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping1.toGuest = "CONTROL X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping2.mappingKey = "2"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping2.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping2.fromHost = "GUI C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping2.toGuest = "CONTROL C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping3.mappingKey = "3"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping3.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping3.fromHost = "GUI V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping3.toGuest = "CONTROL V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping4.mappingKey = "4"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping4.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping4.fromHost = "GUI P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping4.toGuest = "CONTROL P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping5.mappingKey = "5"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping5.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping5.fromHost = "GUI A"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping5.toGuest = "CONTROL A"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping6.mappingKey = "6"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping6.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping6.fromHost = "GUI S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping6.toGuest = "CONTROL S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping7.mappingKey = "7"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping7.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping7.fromHost = "GUI F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping7.toGuest = "0x03d"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping8.mappingKey = "8"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping8.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping8.fromHost = "GUI W"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping8.toGuest = "ALT 0x03e"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping9.mappingKey = "9"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping9.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping9.fromHost = "CONTROL ALT 0xe"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping9.toGuest = "CONTROL ALT 0x153"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping10.mappingKey = "10"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping10.enabled = "FALSE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping10.fromHost = "0x11c"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping10.toGuest = "0x138"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping11.mappingKey = "11"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping11.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping11.fromHost = "GUI SHIFT C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping11.toGuest = "GUI C"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping12.mappingKey = "12"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping12.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping12.fromHost = "GUI SHIFT H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping12.toGuest = "GUI H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping13.mappingKey = "13"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping13.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping13.fromHost = "GUI SHIFT M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping13.toGuest = "GUI M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping14.mappingKey = "14"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping14.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping14.fromHost = "GUI SHIFT P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping14.toGuest = "GUI P"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping15.mappingKey = "15"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping15.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping15.fromHost = "GUI SHIFT F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping15.toGuest = "GUI Q"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping16.mappingKey = "16"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping16.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping16.fromHost = "GUI SHIFT V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping16.toGuest = "GUI V"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping17.mappingKey = "17"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping17.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping17.fromHost = "GUI SHIFT W"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping17.toGuest = "GUI W"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping18.mappingKey = "18"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping18.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping18.fromHost = "GUI SHIFT X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping18.toGuest = "GUI X"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping19.mappingKey = "19"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping19.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping19.fromHost = "GUI SHIFT Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping19.toGuest = "GUI Z"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping20.mappingKey = "20"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping20.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping20.fromHost = "Mouse1 Control"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping20.toGuest = "Mouse2"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping21.mappingKey = "21"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping21.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping21.fromHost = "Mouse1 GUI"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping21.toGuest = "Mouse3"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping22.mappingKey = "22"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping22.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping22.fromHost = "GUI CONTROL"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping22.toGuest = "Ungrab"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping23.mappingKey = "23"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping23.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping23.fromHost = "GUI CONTROL F"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping23.toGuest = "Fullscreen"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping24.mappingKey = "24"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping24.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping24.fromHost = "GUI SHIFT U"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping24.toGuest = "Unity"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping25.mappingKey = "25"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping25.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping25.fromHost = "GUI CONTROL S"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping25.toGuest = "SingleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping26.mappingKey = "26"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping26.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping26.fromHost = "GUI 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping26.toGuest = "CycleWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping27.mappingKey = "27"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping27.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping27.fromHost = "GUI SHIFT 0x029"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping27.toGuest = "CycleWindowReverse"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping28.mappingKey = "28"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping28.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping28.fromHost = "GUI H"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping28.toGuest = "HideApplication"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping29.mappingKey = "29"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping29.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping29.fromHost = "GUI M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping29.toGuest = "MinimizeWindow"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping30.mappingKey = "30"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping30.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping30.fromHost = "GUI Q"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping30.toGuest = "Quit"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping31.mappingKey = "31"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping31.enabled = "TRUE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping31.fromHost = "GUI ALT SHIFT M"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping31.toGuest = "ToggleHideMenu"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping32.mappingKey = "32"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping32.enabled = "FALSE"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping32.fromHost = "GUI E"
+2023-03-05T20:54:50.342Z In(05) main  DICT pref.keyboardAndMouse.profile3.mapping32.toGuest = "Settings"
+2023-03-05T20:54:50.342Z In(05) main  DICT   pref.lastUpdateCheckSec = "1678041762"
+2023-03-05T20:54:50.342Z In(05) main  DICT         vmWizard.guestKey = "arm-ubuntu-64"
+2023-03-05T20:54:50.342Z In(05) main  DICT --- USER DEFAULTS /Users/maul/Library/Preferences/VMware Fusion/config
+2023-03-05T20:54:50.342Z In(05) main  DICT --- HOST DEFAULTS /Library/Preferences/VMware Fusion/config
+2023-03-05T20:54:50.342Z In(05) main  DICT --- SITE DEFAULTS /Applications/VMware Fusion.app/Contents/Library/config
+2023-03-05T20:54:50.342Z In(05) main  Msg_SetLocaleEx: HostLocale=UTF-8 UserLocale=en
+2023-03-05T20:54:50.342Z In(05) main  DictionaryLoad: Cannot open file "/Applications/VMware Fusion.app/Contents/Library/messages/en/vmware.vmsg": No such file or directory.
+2023-03-05T20:54:50.342Z In(05) main  MKSRoleMain: Initializing Sig
+2023-03-05T20:54:50.342Z In(05) main  MKSRoleMain: Initializing MKS
+2023-03-05T20:54:50.411Z In(05) main  Current Display Settings:
+2023-03-05T20:54:50.411Z In(05) main     Display: 0 size: 1440x900 pixelSize: 2880x1800 position: (0, 0) Primary
+2023-03-05T20:54:50.411Z In(05) main  MKSRoleMain: Powering on.
+2023-03-05T20:54:50.411Z In(05) main  MKSSandbox: Powering on MKSSandboxComm
+2023-03-05T20:54:50.411Z In(05) main  MKSSandbox: MKS_UUID=52 8b 40 d5 c4 2f 1a 62-f7 17 a5 7c ea 8b eb d3
+2023-03-05T20:54:50.411Z In(05) main  MKSRoleMain: Powering on MKS
+2023-03-05T20:54:50.411Z In(05) main  MKS PowerOn
+2023-03-05T20:54:50.411Z In(05) mks  VTHREAD 6097907712 "mks" tid 2173268
+2023-03-05T20:54:50.411Z In(05) mks  MKS thread is alive
+2023-03-05T20:54:50.411Z In(05) svga  VTHREAD 6106345472 "svga" tid 2173269
+2023-03-05T20:54:50.411Z In(05) svga  SVGA thread is alive
+2023-03-05T20:54:50.411Z In(05) mks  MKS: SSE2=0, SSSE3=0, SSE4_1=0
+2023-03-05T20:54:50.414Z In(05) mks  MKS-RenderMain: PowerOn allowed MTLRenderer 
+2023-03-05T20:54:50.414Z In(05) mks  MKS-RenderMain: ISB not enabled by config
+2023-03-05T20:54:50.414Z In(05) mks  MKS-RenderMain: Collecting RenderOps caps from MTLRenderer
+2023-03-05T20:54:50.414Z In(05) mks  MKS-RenderMain: Starting MTLRenderer
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device name: Apple M1
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device removable: FALSE
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device headless: FALSE
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device lowPower: FALSE
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device maxThreadsPerThreadgroup: 1024x1024x1024
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device recommendedMaxWorkingSetSize: 5726633984
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device depth24Stencil8PixelFormatSupported: FALSE
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device GPU family: 2
+2023-03-05T20:54:50.420Z In(05) mks  Metal Device Apple GPU family: 7
+2023-03-05T20:54:50.420Z In(05) mks  Metal Shading Language version: 2.4
+2023-03-05T20:54:50.420Z In(05) mks  Metal RW Texture Tier: 2
+2023-03-05T20:54:50.420Z In(05) mks  Metal Arg Buffer Support: Tier 2
+2023-03-05T20:54:50.420Z In(05) mks  Metal GPU chip: Unknown (Unknown)
+2023-03-05T20:54:50.525Z In(05) mks  Metal Device: Pull Model Interpolation support: Yes
+2023-03-05T20:54:51.756Z In(05) mks  Started Shim3D
+2023-03-05T20:54:51.756Z In(05) mks  MKS-RenderMain: Started MTLRenderer
+2023-03-05T20:54:51.756Z In(05) mks  MKS-RenderMain: Found Full Renderer: MTLRenderer
+2023-03-05T20:54:51.756Z In(05) mks  MKS-RenderMain: maxTextureSize=16384
+2023-03-05T20:54:51.756Z In(05) mks  MKSRemoteMgr: Set default display name: GNS3 VM
+2023-03-05T20:54:51.756Z In(05) mks  MKSRemoteMgr: Loading VNC Configuration from VM config file
+2023-03-05T20:54:51.756Z In(05) mks  MKSRemoteMgr: Using default VNC keymap table "us"
+2023-03-05T20:54:51.756Z In(05) main  MKSRoleMain: PowerOn finished.
+2023-03-05T20:54:51.756Z In(05) svga  ReplayFifo: mksReplay format version=21
+2023-03-05T20:54:51.756Z In(05) svga  SVGA3dDevCaps: replayFifo host
+2023-03-05T20:54:51.756Z In(05) svga    cap[  0]: 0x00000001 (3D)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  1]: 0x00000008 (MAX_LIGHTS)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  2]: 0x00000008 (MAX_TEXTURES)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  5]: 0x00000001 (VERTEX_SHADER)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2023-03-05T20:54:51.756Z In(05) svga    cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2023-03-05T20:54:51.756Z In(05) svga    cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2023-03-05T20:54:51.756Z In(05) svga    cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2023-03-05T20:54:51.756Z In(05) svga    cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2023-03-05T20:54:51.756Z In(05) svga    cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2023-03-05T20:54:51.756Z In(05) svga    cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 15]: 0x00000001 (QUERY_TYPES)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 17]: 511.000000 (MAX_POINT_SIZE)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 22]: 0x00004000 (MAX_TEXTURE_REPEAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 23]: 0x00004000 (MAX_TEXTURE_ASPECT_RATIO)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 35]: 0x0008601f (SURFACEFMT_X1R5G5B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 36]: 0x0008611f (SURFACEFMT_A1R5G5B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 37]: 0x0000611f (SURFACEFMT_A4R4G4B4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 39]: 0x0000601f (SURFACEFMT_LUMINANCE16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 41]: 0x0000601f (SURFACEFMT_ALPHA8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 42]: 0x0000601f (SURFACEFMT_LUMINANCE8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 51]: 0x00014005 (SURFACEFMT_BUMPX8L8V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 54]: 0x00014005 (SURFACEFMT_Q8W8V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 55]: 0x00014001 (SURFACEFMT_CxV8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 56]: 0x0080601f (SURFACEFMT_R_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 57]: 0x0080601f (SURFACEFMT_R_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 58]: 0x0080601f (SURFACEFMT_RG_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 59]: 0x0080601f (SURFACEFMT_RG_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 60]: 0x0080601f (SURFACEFMT_ARGB_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 61]: 0x0080601f (SURFACEFMT_ARGB_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 62]: 0x00000000 (MISSING62)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 63]: 0x00000004 (MAX_VERTEX_SHADER_TEXTURES)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 70]: 0x00000000 (DEAD4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 71]: 0x00000000 (DEAD5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 72]: 0x00000000 (DEAD7)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 73]: 0x00000000 (DEAD6)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 76]: 0x00000000 (DEAD10)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 79]: 0x000040c5 (SURFACEFMT_Z_DF16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 80]: 0x000040c5 (SURFACEFMT_Z_DF24)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 84]: 0x00000000 (DEAD1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 85]: 0x00000000 (DEAD8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 86]: 0x00000000 (DEAD9)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 87]: 0x00000001 (LINE_AA)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 89]:  10.000000 (MAX_LINE_WIDTH)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 90]:  10.000000 (MAX_AA_LINE_WIDTH)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 92]: 0x00000000 (DEAD3)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 94]: 0x00000000 (DEAD2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 95]: 0x00000001 (DXCONTEXT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 96]: 0x00000000 (DEAD11)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 98]: 0x0000000f (DX_MAX_CONSTANT_BUFFERS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2023-03-05T20:54:51.757Z In(05) svga    cap[100]: 0x000002f7 (DXFMT_X8R8G8B8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[101]: 0x000003f7 (DXFMT_A8R8G8B8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[102]: 0x000002f7 (DXFMT_R5G6B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[106]: 0x00000009 (DXFMT_Z_D32)
+2023-03-05T20:54:51.757Z In(05) svga    cap[107]: 0x0000026b (DXFMT_Z_D16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[108]: 0x0000026b (DXFMT_Z_D24S8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[110]: 0x000000f7 (DXFMT_LUMINANCE8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[112]: 0x000000f7 (DXFMT_LUMINANCE16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[114]: 0x00000063 (DXFMT_DXT1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[115]: 0x00000063 (DXFMT_DXT2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[116]: 0x00000063 (DXFMT_DXT3)
+2023-03-05T20:54:51.757Z In(05) svga    cap[117]: 0x00000063 (DXFMT_DXT4)
+2023-03-05T20:54:51.757Z In(05) svga    cap[118]: 0x00000063 (DXFMT_DXT5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[121]: 0x00000063 (DXFMT_BUMPX8L8V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[123]: 0x000003f7 (DXFMT_ARGB_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[124]: 0x000003f7 (DXFMT_ARGB_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[125]: 0x000003f7 (DXFMT_A2R10G10B10)
+2023-03-05T20:54:51.757Z In(05) svga    cap[126]: 0x000000e3 (DXFMT_V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[127]: 0x00000063 (DXFMT_Q8W8V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[128]: 0x00000063 (DXFMT_CxV8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2023-03-05T20:54:51.757Z In(05) svga    cap[131]: 0x000000f7 (DXFMT_ALPHA8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[132]: 0x000003f7 (DXFMT_R_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[133]: 0x000003f7 (DXFMT_R_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[134]: 0x000003f7 (DXFMT_RG_S10E5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[135]: 0x000003f7 (DXFMT_RG_S23E8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[136]: 0x00000001 (DXFMT_BUFFER)
+2023-03-05T20:54:51.757Z In(05) svga    cap[137]: 0x0000026b (DXFMT_Z_D24X8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[138]: 0x000001e3 (DXFMT_V16U16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[139]: 0x000003f7 (DXFMT_G16R16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[141]: 0x00000001 (DXFMT_UYVY)
+2023-03-05T20:54:51.757Z In(05) svga    cap[142]: 0x00000041 (DXFMT_YUY2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[143]: 0x00000041 (DXFMT_NV12)
+2023-03-05T20:54:51.757Z In(05) svga    cap[144]: 0x00000000 (DXFMT_FORMAT_DEAD2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[145]: 0x000002e1 (DXFMT_R32G32B32A32_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[146]: 0x000003e7 (DXFMT_R32G32B32A32_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[147]: 0x000003e7 (DXFMT_R32G32B32A32_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[152]: 0x000002e1 (DXFMT_R16G16B16A16_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[153]: 0x000003e7 (DXFMT_R16G16B16A16_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[154]: 0x000003f7 (DXFMT_R16G16B16A16_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[155]: 0x000003e7 (DXFMT_R16G16B16A16_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[156]: 0x000002e1 (DXFMT_R32G32_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[157]: 0x000003e7 (DXFMT_R32G32_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[158]: 0x000003e7 (DXFMT_R32G32_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[159]: 0x00000261 (DXFMT_R32G8X24_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[160]: 0x00000269 (DXFMT_D32_FLOAT_S8X24_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[161]: 0x00000063 (DXFMT_R32_FLOAT_X8X24)
+2023-03-05T20:54:51.757Z In(05) svga    cap[162]: 0x00000063 (DXFMT_X32_G8X24_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[163]: 0x000002e1 (DXFMT_R10G10B10A2_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[164]: 0x000003e7 (DXFMT_R10G10B10A2_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[165]: 0x000003f7 (DXFMT_R11G11B10_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[166]: 0x000002e1 (DXFMT_R8G8B8A8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[167]: 0x000003f7 (DXFMT_R8G8B8A8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[168]: 0x000002f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[169]: 0x000003e7 (DXFMT_R8G8B8A8_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[170]: 0x000003e7 (DXFMT_R8G8B8A8_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[171]: 0x000002e1 (DXFMT_R16G16_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[172]: 0x000003e7 (DXFMT_R16G16_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[173]: 0x000003e7 (DXFMT_R16G16_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[174]: 0x000002e1 (DXFMT_R32_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[175]: 0x00000269 (DXFMT_D32_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[176]: 0x000003e7 (DXFMT_R32_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[177]: 0x000003e7 (DXFMT_R32_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[178]: 0x00000261 (DXFMT_R24G8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[179]: 0x00000269 (DXFMT_D24_UNORM_S8_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[180]: 0x00000063 (DXFMT_R24_UNORM_X8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[181]: 0x00000063 (DXFMT_X24_G8_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[182]: 0x000002e1 (DXFMT_R8G8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[183]: 0x000003f7 (DXFMT_R8G8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[184]: 0x000003e7 (DXFMT_R8G8_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[185]: 0x000003e7 (DXFMT_R8G8_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[186]: 0x000002e1 (DXFMT_R16_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[187]: 0x000003f7 (DXFMT_R16_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[188]: 0x000003e7 (DXFMT_R16_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[189]: 0x000003f7 (DXFMT_R16_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[190]: 0x000003e7 (DXFMT_R16_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[191]: 0x000002e1 (DXFMT_R8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[192]: 0x000003f7 (DXFMT_R8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[193]: 0x000003e7 (DXFMT_R8_UINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[194]: 0x000003f7 (DXFMT_R8_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[195]: 0x000003e7 (DXFMT_R8_SINT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[196]: 0x00000001 (DXFMT_P8)
+2023-03-05T20:54:51.757Z In(05) svga    cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2023-03-05T20:54:51.757Z In(05) svga    cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[207]: 0x00000063 (DXFMT_ATI1)
+2023-03-05T20:54:51.757Z In(05) svga    cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[210]: 0x00000063 (DXFMT_ATI2)
+2023-03-05T20:54:51.757Z In(05) svga    cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[212]: 0x00000045 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[213]: 0x000002e1 (DXFMT_B8G8R8A8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[214]: 0x000002f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[215]: 0x000002e1 (DXFMT_B8G8R8X8_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[216]: 0x000002f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[217]: 0x0000006b (DXFMT_Z_DF16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[218]: 0x0000006b (DXFMT_Z_DF24)
+2023-03-05T20:54:51.757Z In(05) svga    cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[220]: 0x00000001 (DXFMT_YV12)
+2023-03-05T20:54:51.757Z In(05) svga    cap[221]: 0x000003f7 (DXFMT_R32G32B32A32_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[222]: 0x000003f7 (DXFMT_R16G16B16A16_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[223]: 0x000003f7 (DXFMT_R16G16B16A16_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[224]: 0x000003f7 (DXFMT_R32G32_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[225]: 0x000003f7 (DXFMT_R10G10B10A2_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[226]: 0x000003f7 (DXFMT_R8G8B8A8_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[227]: 0x000003f7 (DXFMT_R16G16_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[228]: 0x000003f7 (DXFMT_R16G16_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[229]: 0x000003f7 (DXFMT_R16G16_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[230]: 0x000003f7 (DXFMT_R32_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[231]: 0x000003f7 (DXFMT_R8G8_SNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[232]: 0x000003f7 (DXFMT_R16_FLOAT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[233]: 0x00000269 (DXFMT_D16_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[234]: 0x000002f7 (DXFMT_A8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[238]: 0x000002f7 (DXFMT_B5G6R5_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[239]: 0x000002f7 (DXFMT_B5G5R5A1_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[240]: 0x000003f7 (DXFMT_B8G8R8A8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[241]: 0x000003f7 (DXFMT_B8G8R8X8_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[244]: 0x00000001 (SM41)
+2023-03-05T20:54:51.757Z In(05) svga    cap[245]: 0x00000001 (MULTISAMPLE_2X)
+2023-03-05T20:54:51.757Z In(05) svga    cap[246]: 0x00000001 (MULTISAMPLE_4X)
+2023-03-05T20:54:51.757Z In(05) svga    cap[247]: 0x00000001 (MS_FULL_QUALITY)
+2023-03-05T20:54:51.757Z In(05) svga    cap[248]: 0x00000001 (LOGICOPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[249]: 0x00000001 (LOGIC_BLENDOPS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[250]: 0x00000000 (DEAD12)
+2023-03-05T20:54:51.757Z In(05) svga    cap[251]: 0x000000e1 (DXFMT_BC6H_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[252]: 0x000000e3 (DXFMT_BC6H_UF16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[253]: 0x000000e3 (DXFMT_BC6H_SF16)
+2023-03-05T20:54:51.757Z In(05) svga    cap[254]: 0x000000e1 (DXFMT_BC7_TYPELESS)
+2023-03-05T20:54:51.757Z In(05) svga    cap[255]: 0x000000e3 (DXFMT_BC7_UNORM)
+2023-03-05T20:54:51.757Z In(05) svga    cap[256]: 0x000000e3 (DXFMT_BC7_UNORM_SRGB)
+2023-03-05T20:54:51.757Z In(05) svga    cap[257]: 0x00000000 (DEAD13)
+2023-03-05T20:54:51.757Z In(05) svga    cap[258]: 0x00000001 (SM5)
+2023-03-05T20:54:51.757Z In(05) svga    cap[259]: 0x00000001 (MULTISAMPLE_8X)
+2023-03-05T20:54:51.757Z In(05) svga    cap[260]: 0x00000008 (MAX_FORCED_SAMPLE_COUNT)
+2023-03-05T20:54:51.757Z In(05) svga    cap[261]: 0x00000001 (GL43)
+2023-03-05T20:54:51.758Z In(05) svga  MKSRoleReplay: MKSRoleReplay_Run: Starting.
+2023-03-05T20:54:51.769Z In(05) main  MKSMacos: Starting CFRunLoop...
+2023-03-05T20:54:53.091Z In(05) mks  SOCKET 1 (3) recv detected remote shutdown
+2023-03-05T20:54:53.091Z Wa(03) mks  The mksSandbox lost its connection to the main mks.
+2023-03-05T20:54:53.091Z Wa(03) mks  The main mks process may have crashed or hung.
+2023-03-05T20:54:53.091Z Wa(03) mks  Check the mksSandbox.log and vmware.log for more details.
+2023-03-05T20:54:53.091Z Cr(01) mks  PANIC: MKSSandboxComm: Lost connection to isbRenderer (1215)
+2023-03-05T20:54:53.091Z Wa(03) mks  
+2023-03-05T20:54:53.091Z Wa(03)+ mks  The core dump limit is set to ZERO; no core dump should be expected
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace:
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[0] rip=0000000104b86338
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[1] rip=0000000104ab80d4
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[2] rip=00000001049cb4c0
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[3] rip=00000001049cb478
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[4] rip=0000000104af7c8c
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[5] rip=0000000104b3380c
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[6] rip=0000000104b3352c
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[7] rip=0000000104b32c60
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[8] rip=0000000104aa7b24
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[9] rip=0000000104b4daa0
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[10] rip=00000001aff7e06c
+2023-03-05T20:54:53.091Z In(05) mks  Backtrace[11] rip=00000001aff78e2c
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[0] rip=0000000104b86338 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[1] rip=0000000104ab80d4 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[2] rip=00000001049cb4c0 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[3] rip=00000001049cb478 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[4] rip=0000000104af7c8c in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[5] rip=0000000104b3380c in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[6] rip=0000000104b3352c in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[7] rip=0000000104b32c60 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[8] rip=0000000104aa7b24 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[9] rip=0000000104b4daa0 in function (null) in object /Applications/VMware Fusion.app/Contents/Library/mksSandbox loaded at 00000001049b4000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[10] rip=00000001aff7e06c in function _pthread_start in object /usr/lib/system/libsystem_pthread.dylib loaded at 00000001aff77000
+2023-03-05T20:54:53.092Z In(05) mks  SymBacktrace[11] rip=00000001aff78e2c in function thread_start in object /usr/lib/system/libsystem_pthread.dylib loaded at 00000001aff77000
+2023-03-05T20:54:53.092Z In(05) mks  Printing loaded objects
+2023-03-05T20:54:53.092Z In(05) mks  [1049B4000-104D5C000): /Applications/VMware Fusion.app/Contents/Library/mksSandbox
+2023-03-05T20:54:53.092Z In(05) mks  [1056C4000-10573C000): /Applications/VMware Fusion.app/Contents/Frameworks/libssl.1.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [105D3C000-105F74000): /Applications/VMware Fusion.app/Contents/Frameworks/libcrypto.1.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C5257000-1C5258000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices
+2023-03-05T20:54:53.092Z In(05) mks  [1B509A000-1B56E5000): /System/Library/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics
+2023-03-05T20:54:53.092Z In(05) mks  [1B1E9A000-1B2079000): /System/Library/Frameworks/CoreText.framework/Versions/A/CoreText
+2023-03-05T20:54:53.092Z In(05) mks  [1B9A95000-1B9DD6000): /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+2023-03-05T20:54:53.092Z In(05) mks  [1B56E5000-1B57D7FF4): /System/Library/Frameworks/ColorSync.framework/Versions/A/ColorSync
+2023-03-05T20:54:53.092Z In(05) mks  [1BE53A000-1BE5ABFF4): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+2023-03-05T20:54:53.092Z In(05) mks  [1C1D17000-1C1D18000): /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices
+2023-03-05T20:54:53.092Z In(05) mks  [1B57D8000-1B583C000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+2023-03-05T20:54:53.092Z In(05) mks  [1BD2AE000-1BD326000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+2023-03-05T20:54:53.092Z In(05) mks  [1BE8F5000-1BE900FF4): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+2023-03-05T20:54:53.092Z In(05) mks  [1BE8E9000-1BE8F5000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSyncLegacy.framework/Versions/A/ColorSyncLegacy
+2023-03-05T20:54:53.092Z In(05) mks  [1BE50E000-1BE53A000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+2023-03-05T20:54:53.092Z In(05) mks  [1BB634000-1BB636000): /usr/lib/libSystem.B.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4C82000-1B509A000): /System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/SkyLight
+2023-03-05T20:54:53.092Z In(05) mks  [1B7217000-1B7245000): /System/Library/PrivateFrameworks/CoreAnalytics.framework/Versions/A/CoreAnalytics
+2023-03-05T20:54:53.092Z In(05) mks  [1B9593000-1B970A000): /System/Library/PrivateFrameworks/FontServices.framework/libFontParser.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C1FBB000-1C1FBC000): /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate
+2023-03-05T20:54:53.092Z In(05) mks  [1B9244000-1B925A000): /System/Library/Frameworks/IOSurface.framework/Versions/A/IOSurface
+2023-03-05T20:54:53.092Z In(05) mks  [1B7DBA000-1B7EA2FF8): /usr/lib/libxml2.2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B480A000-1B4BCC000): /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork
+2023-03-05T20:54:53.092Z In(05) mks  [1AFFDC000-1B04B4000): /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+2023-03-05T20:54:53.092Z In(05) mks  [1BB57A000-1BB58BFF8): /usr/lib/libz.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B0F09000-1B1943000): /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+2023-03-05T20:54:53.092Z In(05) mks  [1AFC08000-1AFC4DDA0): /usr/lib/libobjc.A.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFEBE000-1AFF24FF4): /usr/lib/libc++.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B6346000-1B63A4000): /System/Library/PrivateFrameworks/RunningBoardServices.framework/Versions/A/RunningBoardServices
+2023-03-05T20:54:53.092Z In(05) mks  [1B4BE7000-1B4C4C000): /usr/lib/libMobileGestalt.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C7BB6000-1C7BBA000): /System/Library/PrivateFrameworks/IOSurfaceAccelerator.framework/Versions/A/IOSurfaceAccelerator
+2023-03-05T20:54:53.092Z In(05) mks  [1BCCFE000-1BCD02000): /System/Library/PrivateFrameworks/WatchdogClient.framework/Versions/A/WatchdogClient
+2023-03-05T20:54:53.092Z In(05) mks  [1BB8CE000-1BB99AFE4): /usr/lib/libcompression.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B7245000-1B7247000): /usr/lib/libDiagnosticMessagesClient.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B0BD2000-1B0C5BFF4): /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration
+2023-03-05T20:54:53.092Z In(05) mks  [1B1ABC000-1B1BDC000): /System/Library/Frameworks/CoreDisplay.framework/Versions/A/CoreDisplay
+2023-03-05T20:54:53.092Z In(05) mks  [1B946D000-1B9593000): /System/Library/Frameworks/CoreMedia.framework/Versions/A/CoreMedia
+2023-03-05T20:54:53.092Z In(05) mks  [1B925A000-1B9264000): /System/Library/PrivateFrameworks/IOAccelerator.framework/Versions/A/IOAccelerator
+2023-03-05T20:54:53.092Z In(05) mks  [1B316B000-1B3247000): /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+2023-03-05T20:54:53.092Z In(05) mks  [1B9264000-1B9443000): /System/Library/Frameworks/Metal.framework/Versions/A/Metal
+2023-03-05T20:54:53.092Z In(05) mks  [1B7EA3000-1B7F05000): /System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo
+2023-03-05T20:54:53.092Z In(05) mks  [1BB8C6000-1BB8C8000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/MetalPerformanceShaders
+2023-03-05T20:54:53.092Z In(05) mks  [1BCD02000-1BCD3D000): /System/Library/PrivateFrameworks/MultitouchSupport.framework/Versions/A/MultitouchSupport
+2023-03-05T20:54:53.092Z In(05) mks  [1B2781000-1B2B26000): /System/Library/Frameworks/Security.framework/Versions/A/Security
+2023-03-05T20:54:53.092Z In(05) mks  [1B76F0000-1B7A56000): /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore
+2023-03-05T20:54:53.092Z In(05) mks  [1BACAE000-1BACBF000): /usr/lib/libbsm.0.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB63A000-1BB63AFFC): /System/Library/PrivateFrameworks/SoftLinking.framework/Versions/A/SoftLinking
+2023-03-05T20:54:53.092Z In(05) mks  [1BCD3D000-1BD155000): /System/Library/Frameworks/VideoToolbox.framework/Versions/A/VideoToolbox
+2023-03-05T20:54:53.092Z In(05) mks  [1B6289000-1B6346000): /System/Library/PrivateFrameworks/BaseBoard.framework/Versions/A/BaseBoard
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D32000-1B7D3F000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/FSEvents
+2023-03-05T20:54:53.092Z In(05) mks  [1B2DE8000-1B30F0000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+2023-03-05T20:54:53.092Z In(05) mks  [1B7288000-1B7321000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+2023-03-05T20:54:53.092Z In(05) mks  [1BB2CA000-1BB2FCFFC): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+2023-03-05T20:54:53.092Z In(05) mks  [1BB7FC000-1BB874000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+2023-03-05T20:54:53.092Z In(05) mks  [1B63A4000-1B6416FF4): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+2023-03-05T20:54:53.092Z In(05) mks  [1B04B4000-1B072E000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+2023-03-05T20:54:53.092Z In(05) mks  [1BBE74000-1BBECB000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D3F000-1B7D69000): /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/Versions/A/SharedFileList
+2023-03-05T20:54:53.092Z In(05) mks  [1BB89B000-1BB8B2FFC): /usr/lib/libapple_nghttp2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B2B26000-1B2DDD000): /usr/lib/libicucore.A.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4806000-1B480A000): /usr/lib/libnetwork.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B6028000-1B61F0FF4): /usr/lib/libsqlite3.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B642A000-1B7217000): /System/Library/Frameworks/Network.framework/Versions/A/Network
+2023-03-05T20:54:53.092Z In(05) mks  [1B30F0000-1B312DFF8): /System/Library/PrivateFrameworks/CoreServicesInternal.framework/Versions/A/CoreServicesInternal
+2023-03-05T20:54:53.092Z In(05) mks  [1BB603000-1BB60AFFC): /usr/lib/liboah.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB636000-1BB639FFC): /usr/lib/libfakelink.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFF25000-1AFF3CFFC): /usr/lib/libc++abi.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB62E000-1BB634000): /usr/lib/system/libcache.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB5E7000-1BB5F7FFC): /usr/lib/system/libcommonCrypto.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB615000-1BB618FFC): /usr/lib/system/libcompiler_rt.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB60B000-1BB615000): /usr/lib/system/libcopyfile.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFD3C000-1AFDC5FE4): /usr/lib/system/libcorecrypto.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFDF2000-1AFE3A000): /usr/lib/system/libdispatch.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFF84000-1AFFA7FF8): /usr/lib/system/libdyld.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB624000-1BB625000): /usr/lib/system/libkeymgr.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB5C5000-1BB5CAFF4): /usr/lib/system/libmacho.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BAC83000-1BAC86000): /usr/lib/system/libquarantine.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB621000-1BB623FFC): /usr/lib/system/libremovefile.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4C4C000-1B4C63FF4): /usr/lib/system/libsystem_asl.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFCD9000-1AFCDDFFF): /usr/lib/system/libsystem_blocks.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFE3D000-1AFEBDFFC): /usr/lib/system/libsystem_c.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB619000-1BB61E000): /usr/lib/system/libsystem_collections.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1A3000-1BA1A8000): /usr/lib/system/libsystem_configuration.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B9212000-1B9243FFC): /usr/lib/system/libsystem_containermanager.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB2C4000-1BB2C9FFC): /usr/lib/system/libsystem_coreservices.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B2DDD000-1B2DE8000): /usr/lib/system/libsystem_darwin.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB625000-1BB62DFFC): /usr/lib/system/libsystem_dnssd.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFE3A000-1AFE3CFFC): /usr/lib/system/libsystem_featureflags.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFFB0000-1AFFDBFF4): /usr/lib/system/libsystem_info.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB58C000-1BB5C4000): /usr/lib/system/libsystem_m.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFDC6000-1AFDF1FF8): /usr/lib/system/libsystem_malloc.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4BCC000-1B4BE4FF8): /usr/lib/system/libsystem_networkextension.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B3247000-1B3257000): /usr/lib/system/libsystem_notify.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1A8000-1BA1AE000): /usr/lib/system/libsystem_sandbox.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB61E000-1BB621000): /usr/lib/system/libsystem_secinit.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFF3D000-1AFF76FEC): /usr/lib/system/libsystem_kernel.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFFA8000-1AFFAFFFC): /usr/lib/system/libsystem_platform.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFF77000-1AFF83FFC): /usr/lib/system/libsystem_pthread.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B6421000-1B6429FF4): /usr/lib/system/libsystem_symptoms.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFD22000-1AFD3C000): /usr/lib/system/libsystem_trace.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB5F8000-1BB603000): /usr/lib/system/libunwind.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1AFCDE000-1AFD22000): /usr/lib/system/libxpc.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4BE5000-1B4BE7000): /usr/lib/libenergytrace.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB5CB000-1BB5E7000): /usr/lib/system/libkxld.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [2392D7000-2392E3000): /usr/lib/libCoreEntitlements.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [225D44000-225D6E000): /System/Library/PrivateFrameworks/MessageSecurity.framework/Versions/A/MessageSecurity
+2023-03-05T20:54:53.092Z In(05) mks  [1B600E000-1B6028000): /System/Library/PrivateFrameworks/ProtocolBuffer.framework/Versions/A/ProtocolBuffer
+2023-03-05T20:54:53.092Z In(05) mks  [1BB2A6000-1BB2B6FD0): /System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/A/AppleFSCompression
+2023-03-05T20:54:53.092Z In(05) mks  [1BAC96000-1BACAE000): /usr/lib/libcoretls.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BBEE4000-1BBEE5FFC): /usr/lib/libcoretls_cfhelpers.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB8C8000-1BB8CE000): /usr/lib/libpam.2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BBF4C000-1BBF5B000): /usr/lib/libxar.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D70000-1B7DBA000): /System/Library/PrivateFrameworks/CoreAutoLayout.framework/Versions/A/CoreAutoLayout
+2023-03-05T20:54:53.092Z In(05) mks  [1B7321000-1B732A000): /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration
+2023-03-05T20:54:53.092Z In(05) mks  [1BB775000-1BB7FBFF4): /usr/lib/libarchive.2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1B5000-1BA1B7000): /usr/lib/liblangid.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BFC6A000-1BFDB9FF8): /System/Library/Frameworks/Combine.framework/Versions/A/Combine
+2023-03-05T20:54:53.092Z In(05) mks  [1BDD25000-1BE273000): /usr/lib/swift/libswiftCore.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1D1638000-1D163FFF4): /usr/lib/swift/libswiftCoreFoundation.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1CF4F5000-1CF4FEFFC): /usr/lib/swift/libswiftDarwin.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C3230000-1C3248FF8): /usr/lib/swift/libswiftDispatch.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1D1659000-1D165A000): /usr/lib/swift/libswiftIOKit.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C5682000-1C5685FFA): /usr/lib/swift/libswiftObjectiveC.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1D164C000-1D1658000): /usr/lib/swift/libswiftXPC.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [23A18A000-23A1E4000): /usr/lib/swift/libswift_Concurrency.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [23A2DC000-23A38BFF4): /usr/lib/swift/libswift_StringProcessing.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C5686000-1C56A1000): /usr/lib/swift/libswiftos.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1B0000-1BA1B4FFC): /System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/AppleSystemInfo
+2023-03-05T20:54:53.092Z In(05) mks  [1BA98A000-1BA996FF8): /System/Library/PrivateFrameworks/IOMobileFramebuffer.framework/Versions/A/IOMobileFramebuffer
+2023-03-05T20:54:53.092Z In(05) mks  [1BB63B000-1BB66FFF8): /usr/lib/libpcap.A.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B6417000-1B6420FF9): /usr/lib/libdns_services.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BBECB000-1BBEE3FF4): /usr/lib/liblzma.5.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB2B7000-1BB2C3FF8): /usr/lib/libbz2.1.0.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB670000-1BB762FFC): /usr/lib/libiconv.2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB5C4000-1BB5C5000): /usr/lib/libcharset.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [23A227000-23A2DBFF4): /usr/lib/swift/libswift_RegexParser.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BC317000-1BC321000): /usr/lib/libheimdal-asn1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BAC86000-1BAC96000): /usr/lib/libCheckFix.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B4C64000-1B4C81FF6): /System/Library/PrivateFrameworks/TCC.framework/Versions/A/TCC
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1B7000-1BA2AA000): /System/Library/PrivateFrameworks/CoreNLP.framework/Versions/A/CoreNLP
+2023-03-05T20:54:53.092Z In(05) mks  [1B7247000-1B7288000): /System/Library/PrivateFrameworks/MetadataUtilities.framework/Versions/A/MetadataUtilities
+2023-03-05T20:54:53.092Z In(05) mks  [1BACBF000-1BAD1BFFC): /usr/lib/libmecab.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B0C5C000-1B0C90000): /usr/lib/libCRFSuite.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BAD1C000-1BAD1EFFC): /usr/lib/libgermantok.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB874000-1BB875FF8): /usr/lib/libThaiTokenizer.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B732A000-1B76F0000): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+2023-03-05T20:54:53.092Z In(05) mks  [1C1CEE000-1C1CEF000): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+2023-03-05T20:54:53.092Z In(05) mks  [1BBF92000-1BC00DFFC): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA88A000-1BA976F70): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B0868000-1B0B22FEC): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB9A0000-1BBE73FC4): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BAD1F000-1BAD34000): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLinearAlgebra.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB8B3000-1BB8C6000): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparseBLAS.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB99B000-1BB99FFFC): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libQuadrature.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA2B0000-1BA889FF0): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBNNS.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B0B6B000-1B0BD1FF8): /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparse.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [22507A000-225339FF8): /System/Library/PrivateFrameworks/MIL.framework/Versions/A/MIL
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D12000-1B7D31FFC): /System/Library/Frameworks/OpenDirectory.framework/Versions/A/Frameworks/CFOpenDirectory.framework/Versions/A/CFOpenDirectory
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D02000-1B7D12000): /System/Library/Frameworks/OpenDirectory.framework/Versions/A/OpenDirectory
+2023-03-05T20:54:53.092Z In(05) mks  [1BBEE6000-1BBF4BFFC): /System/Library/PrivateFrameworks/APFS.framework/Versions/A/APFS
+2023-03-05T20:54:53.092Z In(05) mks  [1BABC0000-1BAC53000): /System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation
+2023-03-05T20:54:53.092Z In(05) mks  [1BBF5B000-1BBF5EFF8): /usr/lib/libutil.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [2240EF000-2241B7000): /System/Library/PrivateFrameworks/InstalledContentLibrary.framework/Versions/A/InstalledContentLibrary
+2023-03-05T20:54:53.092Z In(05) mks  [1B312E000-1B316B000): /System/Library/PrivateFrameworks/CoreServicesStore.framework/Versions/A/CoreServicesStore
+2023-03-05T20:54:53.092Z In(05) mks  [1B7D69000-1B7D70000): /usr/lib/libapp_launch_measurement.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [21B0EA000-21B0FA000): /System/Library/PrivateFrameworks/AppleMobileFileIntegrity.framework/Versions/A/AppleMobileFileIntegrity
+2023-03-05T20:54:53.092Z In(05) mks  [1D1617000-1D162B000): /usr/lib/libmis.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1DF578000-1DF580000): /System/Library/PrivateFrameworks/MobileSystemServices.framework/Versions/A/MobileSystemServices
+2023-03-05T20:54:53.092Z In(05) mks  [1F9DB5000-1F9DB9000): /System/Library/PrivateFrameworks/ConfigProfileHelper.framework/Versions/A/ConfigProfileHelper
+2023-03-05T20:54:53.092Z In(05) mks  [1BB876000-1BB89AFF8): /System/Library/PrivateFrameworks/AppleSauce.framework/Versions/A/AppleSauce
+2023-03-05T20:54:53.092Z In(05) mks  [1B1943000-1B1ABC000): /System/Library/PrivateFrameworks/LanguageModeling.framework/Versions/A/LanguageModeling
+2023-03-05T20:54:53.092Z In(05) mks  [1BBF5F000-1BBF8A000): /usr/lib/libxslt.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BB763000-1BB775000): /usr/lib/libcmph.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA977000-1BA98A000): /System/Library/PrivateFrameworks/CoreEmoji.framework/Versions/A/CoreEmoji
+2023-03-05T20:54:53.092Z In(05) mks  [1BA2AA000-1BA2B0000): /System/Library/PrivateFrameworks/LinguisticData.framework/Versions/A/LinguisticData
+2023-03-05T20:54:53.092Z In(05) mks  [1B0B23000-1B0B6AFFC): /System/Library/PrivateFrameworks/Lexicon.framework/Versions/A/Lexicon
+2023-03-05T20:54:53.092Z In(05) mks  [1BAC53000-1BAC78000): /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Versions/A/BackgroundTaskManagement
+2023-03-05T20:54:53.092Z In(05) mks  [23947A000-239486000): /usr/lib/libTLE.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BCBC7000-1BCC0C000): /System/Library/PrivateFrameworks/AppleJPEG.framework/Versions/A/AppleJPEG
+2023-03-05T20:54:53.092Z In(05) mks  [1BC2FC000-1BC316FFC): /usr/lib/libexpat.1.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD188000-1BD1B2FFC): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD1B3000-1BD211FF8): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD29C000-1BD2A1FFC): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BCC0C000-1BCCFE000): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BC00E000-1BC0A0000): /usr/lib/libate.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD240000-1BD26C000): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD237000-1BD239FFC): /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD232000-1BD236FFC): /System/Library/PrivateFrameworks/GPUWrangler.framework/Versions/A/GPUWrangler
+2023-03-05T20:54:53.092Z In(05) mks  [1BD212000-1BD231FFC): /System/Library/PrivateFrameworks/IOPresentment.framework/Versions/A/IOPresentment
+2023-03-05T20:54:53.092Z In(05) mks  [1BD23A000-1BD23FFFC): /System/Library/PrivateFrameworks/DSExternalDisplay.framework/Versions/A/DSExternalDisplay
+2023-03-05T20:54:53.092Z In(05) mks  [220898000-2208DC000): /System/Library/PrivateFrameworks/GPUCompiler.framework/Versions/31001/Libraries/libllvm-flatbuffers.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4B6000-1FF4BCFF4): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreFSCache.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [220894000-220898000): /System/Library/PrivateFrameworks/GPUCompiler.framework/Versions/31001/Libraries/libGPUCompilerUtils.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BD2A2000-1BD2AE000): /System/Library/PrivateFrameworks/CMCaptureCore.framework/Versions/A/CMCaptureCore
+2023-03-05T20:54:53.092Z In(05) mks  [1BC8CE000-1BC8D2FFC): /usr/lib/libspindump.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B2079000-1B2781000): /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio
+2023-03-05T20:54:53.092Z In(05) mks  [2151F3000-21525E000): /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/ExtensionFoundation
+2023-03-05T20:54:53.092Z In(05) mks  [1C39D7000-1C39E1000): /System/Library/PrivateFrameworks/CoreTime.framework/Versions/A/CoreTime
+2023-03-05T20:54:53.092Z In(05) mks  [1BC8B9000-1BC8C3000): /System/Library/PrivateFrameworks/AppServerSupport.framework/Versions/A/AppServerSupport
+2023-03-05T20:54:53.092Z In(05) mks  [1BEC3D000-1BEC4A000): /System/Library/PrivateFrameworks/perfdata.framework/Versions/A/perfdata
+2023-03-05T20:54:53.092Z In(05) mks  [1B1BDC000-1B1E9A000): /System/Library/PrivateFrameworks/AudioToolboxCore.framework/Versions/A/AudioToolboxCore
+2023-03-05T20:54:53.092Z In(05) mks  [1B9443000-1B946D000): /System/Library/PrivateFrameworks/caulk.framework/Versions/A/caulk
+2023-03-05T20:54:53.092Z In(05) mks  [1BE4FA000-1BE50E000): /usr/lib/libAudioStatistics.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1D0A3D000-1D0A61000): /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy
+2023-03-05T20:54:53.092Z In(05) mks  [1BE79C000-1BE87BFFC): /usr/lib/libSMC.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1C7359000-1C73CC000): /System/Library/Frameworks/CoreMIDI.framework/Versions/A/CoreMIDI
+2023-03-05T20:54:53.092Z In(05) mks  [1BD155000-1BD188000): /usr/lib/libAudioToolboxUtility.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1CC7B0000-1CC7BC000): /System/Library/PrivateFrameworks/OSAServicesClient.framework/Versions/A/OSAServicesClient
+2023-03-05T20:54:53.092Z In(05) mks  [1BEC4A000-1BEC58000): /usr/lib/libperfcheck.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BC1E7000-1BC224000): /System/Library/PrivateFrameworks/PlugInKit.framework/Versions/A/PlugInKit
+2023-03-05T20:54:53.092Z In(05) mks  [1BABB2000-1BABC0000): /System/Library/PrivateFrameworks/AssertionServices.framework/Versions/A/AssertionServices
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4C3000-1FF4D3FF8): /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL
+2023-03-05T20:54:53.092Z In(05) mks  [1FF518000-1FF551FF8): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4D7000-1FF4DFFFC): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF6BE000-1FF6C8000): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4E0000-1FF517FF4): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4D4000-1FF4D7000): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [239459000-239460FFC): /usr/lib/libRosetta.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1FF4BD000-1FF4C3000): /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BA128000-1BA1A3000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSCore.framework/Versions/A/MPSCore
+2023-03-05T20:54:53.092Z In(05) mks  [1BB21C000-1BB2A6000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSImage.framework/Versions/A/MPSImage
+2023-03-05T20:54:53.092Z In(05) mks  [1BAD34000-1BAF32000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSNeuralNetwork.framework/Versions/A/MPSNeuralNetwork
+2023-03-05T20:54:53.092Z In(05) mks  [1BB120000-1BB14F000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSMatrix.framework/Versions/A/MPSMatrix
+2023-03-05T20:54:53.092Z In(05) mks  [1BAF32000-1BAF83000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSRayIntersector.framework/Versions/A/MPSRayIntersector
+2023-03-05T20:54:53.092Z In(05) mks  [1BB14F000-1BB21C000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSNDArray.framework/Versions/A/MPSNDArray
+2023-03-05T20:54:53.092Z In(05) mks  [2165C1000-2165D5000): /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSFunctions.framework/Versions/A/MPSFunctions
+2023-03-05T20:54:53.092Z In(05) mks  [1B072E000-1B0868000): /System/Library/PrivateFrameworks/MetalTools.framework/Versions/A/MetalTools
+2023-03-05T20:54:53.092Z In(05) mks  [1BA1AE000-1BA1B0000): /System/Library/PrivateFrameworks/AggregateDictionary.framework/Versions/A/AggregateDictionary
+2023-03-05T20:54:53.092Z In(05) mks  [1BC0A0000-1BC0A8FFC): /usr/lib/libIOReport.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1B9DD6000-1BA128000): /System/Library/Frameworks/CoreImage.framework/Versions/A/CoreImage
+2023-03-05T20:54:53.092Z In(05) mks  [1C6546000-1C6556000): /System/Library/PrivateFrameworks/ASEProcessing.framework/Versions/A/ASEProcessing
+2023-03-05T20:54:53.092Z In(05) mks  [1BC457000-1BC464000): /System/Library/PrivateFrameworks/GraphVisualizer.framework/Versions/A/GraphVisualizer
+2023-03-05T20:54:53.092Z In(05) mks  [2207B5000-2207B5FFC): /System/Library/PrivateFrameworks/FontServices.framework/Versions/A/FontServices
+2023-03-05T20:54:53.092Z In(05) mks  [1B435A000-1B4370000): /System/Library/Frameworks/UniformTypeIdentifiers.framework/Versions/A/UniformTypeIdentifiers
+2023-03-05T20:54:53.092Z In(05) mks  [1BC877000-1BC8B9000): /System/Library/PrivateFrameworks/OTSVG.framework/Versions/A/OTSVG
+2023-03-05T20:54:53.092Z In(05) mks  [1B7A56000-1B7AA8000): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistry.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BC8C3000-1BC8CDFFC): /System/Library/PrivateFrameworks/FontServices.framework/libhvf.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [2207B6000-220844000): /System/Library/PrivateFrameworks/FontServices.framework/libXTFontStaticRegistryData.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [232652000-232656000): /System/Library/PrivateFrameworks/VideoToolboxParavirtualizationSupport.framework/Versions/A/VideoToolboxParavirtualizationSupport
+2023-03-05T20:54:53.092Z In(05) mks  [1BC2B0000-1BC2FBFF4): /System/Library/PrivateFrameworks/AppleVA.framework/Versions/A/AppleVA
+2023-03-05T20:54:53.092Z In(05) mks  [1BD26C000-1BD29BFF8): /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATSUI.framework/Versions/A/ATSUI
+2023-03-05T20:54:53.092Z In(05) mks  [1BE87C000-1BE8DC000): /usr/lib/libcups.2.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BEC58000-1BEC68FFC): /System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos
+2023-03-05T20:54:53.092Z In(05) mks  [1BEC69000-1BECB8FFC): /System/Library/Frameworks/GSS.framework/Versions/A/GSS
+2023-03-05T20:54:53.092Z In(05) mks  [1BE5AC000-1BE5C4FFC): /usr/lib/libresolv.9.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BC8D3000-1BC996000): /System/Library/PrivateFrameworks/Heimdal.framework/Versions/A/Heimdal
+2023-03-05T20:54:53.092Z In(05) mks  [1C5604000-1C5605000): /System/Library/Frameworks/Kerberos.framework/Versions/A/Libraries/libHeimdalProxy.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BECB9000-1BECCA000): /System/Library/PrivateFrameworks/CommonAuth.framework/Versions/A/CommonAuth
+2023-03-05T20:54:53.092Z In(05) mks  [21442D000-214549000): /System/Library/Frameworks/AVFAudio.framework/Versions/A/AVFAudio
+2023-03-05T20:54:53.092Z In(05) mks  [1CC7FF000-1CC822000): /System/Library/PrivateFrameworks/AXCoreUtilities.framework/Versions/A/AXCoreUtilities
+2023-03-05T20:54:53.092Z In(05) mks  [1BE35B000-1BE486000): /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox
+2023-03-05T20:54:53.092Z In(05) mks  [1BE486000-1BE4FA000): /System/Library/PrivateFrameworks/AudioSession.framework/Versions/A/AudioSession
+2023-03-05T20:54:53.092Z In(05) mks  [1BFA21000-1BFADD000): /System/Library/Frameworks/IOBluetooth.framework/Versions/A/IOBluetooth
+2023-03-05T20:54:53.092Z In(05) mks  [1BC3B1000-1BC42C000): /System/Library/PrivateFrameworks/MediaExperience.framework/Versions/A/MediaExperience
+2023-03-05T20:54:53.092Z In(05) mks  [1BE321000-1BE35B000): /System/Library/PrivateFrameworks/AudioSession.framework/libSessionUtility.dylib
+2023-03-05T20:54:53.092Z In(05) mks  [1BE901000-1BEC3D000): /System/Library/PrivateFrameworks/AudioResourceArbitration.framework/Versions/A/AudioResourceArbitration
+2023-03-05T20:54:53.092Z In(05) mks  [1C2906000-1C292D000): /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/PowerLog
+2023-03-05T20:54:53.092Z In(05) mks  [1B5C50000-1B600E000): /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData
+2023-03-05T20:54:53.092Z In(05) mks  [1C2848000-1C28FA000): /System/Library/Frameworks/CoreBluetooth.framework/Versions/A/CoreBluetooth
+2023-03-05T20:54:53.092Z In(05) mks  [1C5605000-1C5606000): /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit
+2023-03-05T20:54:53.092Z In(05) mks  [1BAA15000-1BAB89000): /System/Library/PrivateFrameworks/CoreUtils.framework/Versions/A/CoreUtils
+2023-03-05T20:54:53.092Z In(05) mks  [21F1B6000-21F1D3FFC): /System/Library/PrivateFrameworks/CoreUtilsExtras.framework/Versions/A/CoreUtilsExtras
+2023-03-05T20:54:53.092Z In(05) mks  [223F89000-223FD9000): /System/Library/PrivateFrameworks/IO80211.framework/Versions/A/IO80211
+2023-03-05T20:54:53.092Z In(05) mks  [1BAB89000-1BABB2000): /System/Library/PrivateFrameworks/MobileKeyBag.framework/Versions/A/MobileKeyBag
+2023-03-05T20:54:53.093Z In(05) mks  [1D0434000-1D0438000): /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon
+2023-03-05T20:54:53.093Z In(05) mks  [1C9100000-1C9104000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+2023-03-05T20:54:53.093Z In(05) mks  [1C4F89000-1C4F8D000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+2023-03-05T20:54:53.093Z In(05) mks  [1B970A000-1B9A3E000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+2023-03-05T20:54:53.093Z In(05) mks  [1C9104000-1C9108000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+2023-03-05T20:54:53.093Z In(05) mks  [1C90D0000-1C90F8000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+2023-03-05T20:54:53.093Z In(05) mks  [1C90FC000-1C9100000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+2023-03-05T20:54:53.093Z In(05) mks  [1D0430000-1D0434000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+2023-03-05T20:54:53.093Z In(05) mks  [1C90F8000-1C90FBFFC): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+2023-03-05T20:54:53.093Z In(05) mks  [1C1930000-1C1938000): /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+2023-03-05T20:54:53.093Z In(05) mks  [1B7AA8000-1B7BEE000): /System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI
+2023-03-05T20:54:53.093Z In(05) mks  [1B7CF6000-1B7D02000): /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/PerformanceAnalysis
+2023-03-05T20:54:53.093Z In(05) mks  [1BD326000-1BD3CA000): /System/Library/PrivateFrameworks/TextureIO.framework/Versions/A/TextureIO
+2023-03-05T20:54:53.093Z In(05) mks  [1B9A5C000-1B9A95000): /System/Library/PrivateFrameworks/CoreSVG.framework/Versions/A/CoreSVG
+2023-03-05T20:54:53.093Z In(05) mks  [1BD3CA000-1BD3D5000): /System/Library/PrivateFrameworks/InternationalSupport.framework/Versions/A/InternationalSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1C191C000-1C1930000): /System/Library/PrivateFrameworks/SpeechRecognitionCore.framework/Versions/A/SpeechRecognitionCore
+2023-03-05T20:54:53.093Z In(05) mks  [1C7484000-1C7488000): /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa
+2023-03-05T20:54:53.093Z In(05) mks  [1B32A8000-1B41B4000): /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+2023-03-05T20:54:53.093Z In(05) mks  [1B41B4000-1B435A000): /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/UIFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [21C739000-21C74C000): /System/Library/PrivateFrameworks/CollectionViewCore.framework/Versions/A/CollectionViewCore
+2023-03-05T20:54:53.093Z In(05) mks  [1C18F0000-1C191C000): /System/Library/PrivateFrameworks/RemoteViewServices.framework/Versions/A/RemoteViewServices
+2023-03-05T20:54:53.093Z In(05) mks  [1B9A56000-1B9A5C000): /System/Library/PrivateFrameworks/XCTTargetBootstrap.framework/Versions/A/XCTTargetBootstrap
+2023-03-05T20:54:53.093Z In(05) mks  [1BD451000-1BD4BD000): /System/Library/PrivateFrameworks/UserActivity.framework/Versions/A/UserActivity
+2023-03-05T20:54:53.093Z In(05) mks  [233952000-233967000): /System/Library/PrivateFrameworks/WindowManagement.framework/Versions/A/WindowManagement
+2023-03-05T20:54:53.093Z In(05) mks  [1BC33C000-1BC3B1000): /System/Library/PrivateFrameworks/IconServices.framework/Versions/A/IconServices
+2023-03-05T20:54:53.093Z In(05) mks  [1B9A3E000-1B9A56000): /System/Library/PrivateFrameworks/DFRFoundation.framework/Versions/A/DFRFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1BD3D5000-1BD451000): /System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/DataDetectorsCore
+2023-03-05T20:54:53.093Z In(05) mks  [1D4563000-1D4618000): /System/Library/PrivateFrameworks/TextInput.framework/Versions/A/TextInput
+2023-03-05T20:54:53.093Z In(05) mks  [1BC321000-1BC33C000): /System/Library/PrivateFrameworks/IconFoundation.framework/Versions/A/IconFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1D55DA000-1D55DE000): /System/Library/Frameworks/Quartz.framework/Versions/A/Quartz
+2023-03-05T20:54:53.093Z In(05) mks  [1D2F37000-1D3417000): /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzComposer.framework/Versions/A/QuartzComposer
+2023-03-05T20:54:53.093Z In(05) mks  [1D3417000-1D3527000): /System/Library/Frameworks/PDFKit.framework/Versions/A/PDFKit
+2023-03-05T20:54:53.093Z In(05) mks  [1D241F000-1D244B000): /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzFilters.framework/Versions/A/QuartzFilters
+2023-03-05T20:54:53.093Z In(05) mks  [1D1833000-1D1A77000): /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/Versions/A/ImageKit
+2023-03-05T20:54:53.093Z In(05) mks  [217D11000-217E41000): /System/Library/Frameworks/QuickLookUI.framework/Versions/A/QuickLookUI
+2023-03-05T20:54:53.093Z In(05) mks  [1C9108000-1CA5B8000): /System/Library/Frameworks/JavaScriptCore.framework/Versions/A/JavaScriptCore
+2023-03-05T20:54:53.093Z In(05) mks  [1C38FD000-1C39D6FF4): /System/Library/PrivateFrameworks/CoreSymbolication.framework/Versions/A/CoreSymbolication
+2023-03-05T20:54:53.093Z In(05) mks  [1FF85E000-1FF8CDFF4): /System/Library/Frameworks/OpenCL.framework/Versions/A/OpenCL
+2023-03-05T20:54:53.093Z In(05) mks  [1C38BE000-1C38FCFFD): /System/Library/PrivateFrameworks/DebugSymbols.framework/Versions/A/DebugSymbols
+2023-03-05T20:54:53.093Z In(05) mks  [1D03A4000-1D0430000): /System/Library/PrivateFrameworks/CorePDF.framework/Versions/A/CorePDF
+2023-03-05T20:54:53.093Z In(05) mks  [1CC7F6000-1CC7FF000): /System/Library/PrivateFrameworks/URLFormatting.framework/Versions/A/URLFormatting
+2023-03-05T20:54:53.093Z In(05) mks  [1BFB52000-1BFBBE000): /System/Library/Frameworks/QuickLook.framework/Versions/A/QuickLook
+2023-03-05T20:54:53.093Z In(05) mks  [1C84A7000-1C84AF000): /System/Library/PrivateFrameworks/DisplayServices.framework/Versions/A/DisplayServices
+2023-03-05T20:54:53.093Z In(05) mks  [1D23AA000-1D241F000): /System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/ImageCaptureCore
+2023-03-05T20:54:53.093Z In(05) mks  [1D083D000-1D083E000): /System/Library/Frameworks/AVFoundation.framework/Versions/A/AVFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1BFBBE000-1BFBDE000): /System/Library/Frameworks/MetalKit.framework/Versions/A/MetalKit
+2023-03-05T20:54:53.093Z In(05) mks  [232E23000-232EF3000): /System/Library/PrivateFrameworks/VisionKitCore.framework/Versions/A/VisionKitCore
+2023-03-05T20:54:53.093Z In(05) mks  [1CF170000-1CF1A1000): /System/Library/PrivateFrameworks/QuickLookSupport.framework/Versions/A/QuickLookSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1C2B56000-1C2CE0000): /System/Library/Frameworks/FileProvider.framework/Versions/A/FileProvider
+2023-03-05T20:54:53.093Z In(05) mks  [1C2A26000-1C2B12000): /System/Library/PrivateFrameworks/DiskManagement.framework/Versions/A/DiskManagement
+2023-03-05T20:54:53.093Z In(05) mks  [1C5704000-1C5743000): /System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/QuickLookThumbnailing
+2023-03-05T20:54:53.093Z In(05) mks  [1B61F1000-1B626E000): /System/Library/Frameworks/Accounts.framework/Versions/A/Accounts
+2023-03-05T20:54:53.093Z In(05) mks  [1B7F41000-1B7F6C000): /System/Library/PrivateFrameworks/UserManagement.framework/Versions/A/UserManagement
+2023-03-05T20:54:53.093Z In(05) mks  [1C2CE0000-1C2D06000): /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/GenerationalStorage
+2023-03-05T20:54:53.093Z In(05) mks  [1C28FA000-1C2906000): /System/Library/PrivateFrameworks/SymptomDiagnosticReporter.framework/Versions/A/SymptomDiagnosticReporter
+2023-03-05T20:54:53.093Z In(05) mks  [1B4370000-1B4510000): /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv
+2023-03-05T20:54:53.093Z In(05) mks  [1B3257000-1B32A7FFC): /usr/lib/libsandbox.1.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1BE8DC000-1BE8E8FFC): /System/Library/PrivateFrameworks/NetAuth.framework/Versions/A/NetAuth
+2023-03-05T20:54:53.093Z In(05) mks  [1BF895000-1BFA21000): /System/Library/PrivateFrameworks/Sharing.framework/Versions/A/Sharing
+2023-03-05T20:54:53.093Z In(05) mks  [1B7F05000-1B7F07FFC): /System/Library/PrivateFrameworks/login.framework/Versions/A/Frameworks/loginsupport.framework/Versions/A/loginsupport
+2023-03-05T20:54:53.093Z In(05) mks  [1C4B01000-1C4B05000): /System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Apple80211
+2023-03-05T20:54:53.093Z In(05) mks  [1BB2FD000-1BB461000): /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/AuthKit
+2023-03-05T20:54:53.093Z In(05) mks  [1BA997000-1BAA15000): /System/Library/Frameworks/CoreWLAN.framework/Versions/A/CoreWLAN
+2023-03-05T20:54:53.093Z In(05) mks  [1C4B05000-1C4C90000): /System/Library/PrivateFrameworks/CoreWiFi.framework/Versions/A/CoreWiFi
+2023-03-05T20:54:53.093Z In(05) mks  [1F357C000-1F35A8000): /System/Library/PrivateFrameworks/WiFiPeerToPeer.framework/Versions/A/WiFiPeerToPeer
+2023-03-05T20:54:53.093Z In(05) mks  [1C3476000-1C3512000): /System/Library/PrivateFrameworks/FrontBoardServices.framework/Versions/A/FrontBoardServices
+2023-03-05T20:54:53.093Z In(05) mks  [1C3512000-1C356E000): /System/Library/PrivateFrameworks/BoardServices.framework/Versions/A/BoardServices
+2023-03-05T20:54:53.093Z In(05) mks  [1C4C90000-1C4CB3000): /System/Library/PrivateFrameworks/BackBoardServices.framework/Versions/A/BackBoardServices
+2023-03-05T20:54:53.093Z In(05) mks  [1BB461000-1BB4A9000): /System/Library/Frameworks/UserNotifications.framework/Versions/A/UserNotifications
+2023-03-05T20:54:53.093Z In(05) mks  [1BEDB3000-1BEDBCFF9): /System/Library/PrivateFrameworks/CorePhoneNumbers.framework/Versions/A/CorePhoneNumbers
+2023-03-05T20:54:53.093Z In(05) mks  [1BE5D9000-1BE5E9000): /System/Library/PrivateFrameworks/MultiverseSupport.framework/Versions/A/MultiverseSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1C4F19000-1C4F2D000): /System/Library/PrivateFrameworks/RemoteServiceDiscovery.framework/Versions/A/RemoteServiceDiscovery
+2023-03-05T20:54:53.093Z In(05) mks  [1C292D000-1C293A000): /System/Library/PrivateFrameworks/AppleIDAuthSupport.framework/Versions/A/AppleIDAuthSupport
+2023-03-05T20:54:53.093Z In(05) mks  [219426000-21943A000): /System/Library/PrivateFrameworks/AAAFoundation.framework/Versions/A/AAAFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1BED8B000-1BEDB3000): /System/Library/PrivateFrameworks/KeychainCircle.framework/Versions/A/KeychainCircle
+2023-03-05T20:54:53.093Z In(05) mks  [1C4F2D000-1C4F45000): /System/Library/PrivateFrameworks/RemoteXPC.framework/Versions/A/RemoteXPC
+2023-03-05T20:54:53.093Z In(05) mks  [1C29F2000-1C2A25FF4): /System/Library/PrivateFrameworks/MediaKit.framework/Versions/A/MediaKit
+2023-03-05T20:54:53.093Z In(05) mks  [1C293A000-1C29F2000): /System/Library/Frameworks/DiscRecording.framework/Versions/A/DiscRecording
+2023-03-05T20:54:53.093Z In(05) mks  [1BC22C000-1BC2AFFF8): /usr/lib/libCoreStorage.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C4F95000-1C4FA1000): /usr/lib/libcsfde.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1BFAF6000-1BFB52000): /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Versions/A/ProtectedCloudStorage
+2023-03-05T20:54:53.093Z In(05) mks  [1C4F8D000-1C4F95000): /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin
+2023-03-05T20:54:53.093Z In(05) mks  [1C2D06000-1C2D2E000): /System/Library/PrivateFrameworks/OctagonTrust.framework/Versions/A/OctagonTrust
+2023-03-05T20:54:53.093Z In(05) mks  [1BC224000-1BC22BFFC): /usr/lib/libMatch.1.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C3249000-1C3476000): /System/Library/PrivateFrameworks/AVFCore.framework/Versions/A/AVFCore
+2023-03-05T20:54:53.093Z In(05) mks  [1CA673000-1CA7EB000): /System/Library/PrivateFrameworks/AVFCapture.framework/Versions/A/AVFCapture
+2023-03-05T20:54:53.093Z In(05) mks  [1CF1A1000-1CF238FFC): /System/Library/PrivateFrameworks/AirPlaySync.framework/Versions/A/AirPlaySync
+2023-03-05T20:54:53.093Z In(05) mks  [1BD4BD000-1BDCB9000): /System/Library/Frameworks/MediaToolbox.framework/Versions/A/MediaToolbox
+2023-03-05T20:54:53.093Z In(05) mks  [1C2B22000-1C2B55FF4): /System/Library/PrivateFrameworks/CoreAVCHD.framework/Versions/A/CoreAVCHD
+2023-03-05T20:54:53.093Z In(05) mks  [1C2006000-1C2015FF4): /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/MediaAccessibility
+2023-03-05T20:54:53.093Z In(05) mks  [1C2B1E000-1C2B22000): /System/Library/PrivateFrameworks/Mangrove.framework/Versions/A/Mangrove
+2023-03-05T20:54:53.093Z In(05) mks  [21BC53000-21BD21000): /System/Library/PrivateFrameworks/CMPhoto.framework/Versions/A/CMPhoto
+2023-03-05T20:54:53.093Z In(05) mks  [1C2B12000-1C2B1E000): /System/Library/PrivateFrameworks/CoreAUC.framework/Versions/A/CoreAUC
+2023-03-05T20:54:53.093Z In(05) mks  [21BC24000-21BC53000): /System/Library/PrivateFrameworks/CMImaging.framework/Versions/A/CMImaging
+2023-03-05T20:54:53.093Z In(05) mks  [1CA7EB000-1CA8BE000): /System/Library/PrivateFrameworks/Quagga.framework/Versions/A/Quagga
+2023-03-05T20:54:53.093Z In(05) mks  [1CA8BE000-1CACE9000): /System/Library/PrivateFrameworks/CMCapture.framework/Versions/A/CMCapture
+2023-03-05T20:54:53.093Z In(05) mks  [1BE6A9000-1BE79C000): /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/CoreMediaIO
+2023-03-05T20:54:53.093Z In(05) mks  [1D157B000-1D15E9000): /System/Library/PrivateFrameworks/LoggingSupport.framework/Versions/A/LoggingSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1BC9B6000-1BCAAD000): /System/Library/PrivateFrameworks/CoreBrightness.framework/Versions/A/CoreBrightness
+2023-03-05T20:54:53.093Z In(05) mks  [1CB896000-1CB8AA000): /System/Library/PrivateFrameworks/HID.framework/Versions/A/HID
+2023-03-05T20:54:53.093Z In(05) mks  [1D132D000-1D134D000): /System/Library/Frameworks/SafariServices.framework/Versions/A/SafariServices
+2023-03-05T20:54:53.093Z In(05) mks  [1D0CC2000-1D0CCA000): /System/Library/PrivateFrameworks/QuickLookNonBaseSystem.framework/Versions/A/QuickLookNonBaseSystem
+2023-03-05T20:54:53.093Z In(05) mks  [1B7BEE000-1B7CF6000): /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/ViewBridge
+2023-03-05T20:54:53.093Z In(05) mks  [1BC0A9000-1BC0BD000): /System/Library/PrivateFrameworks/CrashReporterSupport.framework/Versions/A/CrashReporterSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1DE7EB000-1DE834000): /System/Library/PrivateFrameworks/OSAnalytics.framework/Versions/A/OSAnalytics
+2023-03-05T20:54:53.093Z In(05) mks  [1EA36F000-1EA431FE0): /System/Library/PrivateFrameworks/Symbolication.framework/Versions/A/Symbolication
+2023-03-05T20:54:53.093Z In(05) mks  [1D15E9000-1D15F3FFC): /System/Library/PrivateFrameworks/MallocStackLogging.framework/Versions/A/MallocStackLogging
+2023-03-05T20:54:53.093Z In(05) mks  [1C908C000-1C90B8000): /System/Library/PrivateFrameworks/MarkupUI.framework/Versions/A/MarkupUI
+2023-03-05T20:54:53.093Z In(05) mks  [1D0C9D000-1D0CC2000): /System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/SidecarCore
+2023-03-05T20:54:53.093Z In(05) mks  [1D2DF7000-1D2F37000): /System/Library/PrivateFrameworks/AnnotationKit.framework/Versions/A/AnnotationKit
+2023-03-05T20:54:53.093Z In(05) mks  [1D0CCA000-1D0D06000): /System/Library/PrivateFrameworks/DataDetectors.framework/Versions/A/DataDetectors
+2023-03-05T20:54:53.093Z In(05) mks  [2259CE000-2259EE000): /System/Library/PrivateFrameworks/MediaAnalysisServices.framework/Versions/A/MediaAnalysisServices
+2023-03-05T20:54:53.093Z In(05) mks  [1C207C000-1C23A0000): /System/Library/Frameworks/Vision.framework/Versions/A/Vision
+2023-03-05T20:54:53.093Z In(05) mks  [1E7278000-1E727F000): /System/Library/PrivateFrameworks/RevealCore.framework/Versions/A/RevealCore
+2023-03-05T20:54:53.093Z In(05) mks  [1E726C000-1E7278000): /System/Library/PrivateFrameworks/Reveal.framework/Versions/A/Reveal
+2023-03-05T20:54:53.093Z In(05) mks  [1D8E0B000-1D8F70000): /System/Library/PrivateFrameworks/TextRecognition.framework/Versions/A/TextRecognition
+2023-03-05T20:54:53.093Z In(05) mks  [1DD8D0000-1DDAEF000): /System/Library/PrivateFrameworks/Translation.framework/Versions/A/Translation
+2023-03-05T20:54:53.093Z In(05) mks  [1D551F000-1D553B000): /System/Library/PrivateFrameworks/Lookup.framework/Versions/A/Lookup
+2023-03-05T20:54:53.093Z In(05) mks  [1CF5BC000-1D019C000): /System/Library/Frameworks/WebKit.framework/Versions/A/WebKit
+2023-03-05T20:54:53.093Z In(05) mks  [1C24CD000-1C262C000): /System/Library/PrivateFrameworks/AddressBookCore.framework/Versions/A/AddressBookCore
+2023-03-05T20:54:53.093Z In(05) mks  [1CC7F4000-1CC7F6000): /System/Library/PrivateFrameworks/PhoneNumbers.framework/Versions/A/PhoneNumbers
+2023-03-05T20:54:53.093Z In(05) mks  [1BF4F0000-1BF679000): /System/Library/PrivateFrameworks/IDS.framework/Versions/A/IDS
+2023-03-05T20:54:53.093Z In(05) mks  [1D12DA000-1D132D000): /System/Library/Frameworks/NaturalLanguage.framework/Versions/A/NaturalLanguage
+2023-03-05T20:54:53.093Z In(05) mks  [1B82D9000-1B8948000): /System/Library/Frameworks/CoreML.framework/Versions/A/CoreML
+2023-03-05T20:54:53.093Z In(05) mks  [1B593A000-1B5B5A000): /System/Library/PrivateFrameworks/Montreal.framework/Versions/A/Montreal
+2023-03-05T20:54:53.093Z In(05) mks  [1BAF83000-1BB120000): /System/Library/Frameworks/MLCompute.framework/Versions/A/MLCompute
+2023-03-05T20:54:53.093Z In(05) mks  [1B7F6C000-1B8225000): /System/Library/Frameworks/CloudKit.framework/Versions/A/CloudKit
+2023-03-05T20:54:53.093Z In(05) mks  [1C5743000-1C63B4000): /System/Library/PrivateFrameworks/Espresso.framework/Versions/A/Espresso
+2023-03-05T20:54:53.093Z In(05) mks  [22533A000-22547A000): /System/Library/PrivateFrameworks/MLAssetIO.framework/Versions/A/MLAssetIO
+2023-03-05T20:54:53.093Z In(05) mks  [2165D5000-2171FF000): /System/Library/Frameworks/MetalPerformanceShadersGraph.framework/Versions/A/MetalPerformanceShadersGraph
+2023-03-05T20:54:53.093Z In(05) mks  [1FA38F000-1FA992FFC): /System/Library/PrivateFrameworks/ANECompiler.framework/Versions/A/ANECompiler
+2023-03-05T20:54:53.093Z In(05) mks  [1C7271000-1C72A5000): /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/Versions/A/AppleNeuralEngine
+2023-03-05T20:54:53.093Z In(05) mks  [1D553B000-1D556BFF4): /usr/lib/libncurses.5.4.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C63B4000-1C63D4000): /System/Library/PrivateFrameworks/ANEServices.framework/Versions/A/ANEServices
+2023-03-05T20:54:53.093Z In(05) mks  [21857D000-218599000): /System/Library/Frameworks/SharedWithYouCore.framework/Versions/A/SharedWithYouCore
+2023-03-05T20:54:53.093Z In(05) mks  [2392BC000-2392C0000): /usr/lib/libBASupport.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C5319000-1C546C000): /System/Library/PrivateFrameworks/AppleAccount.framework/Versions/A/AppleAccount
+2023-03-05T20:54:53.093Z In(05) mks  [1B7F08000-1B7F41000): /System/Library/PrivateFrameworks/ApplePushService.framework/Versions/A/ApplePushService
+2023-03-05T20:54:53.093Z In(05) mks  [1C56BB000-1C5704000): /System/Library/PrivateFrameworks/C2.framework/Versions/A/C2
+2023-03-05T20:54:53.093Z In(05) mks  [1B914C000-1B9212000): /System/Library/Frameworks/CoreLocation.framework/Versions/A/CoreLocation
+2023-03-05T20:54:53.093Z In(05) mks  [21BFC8000-21C10F000): /System/Library/PrivateFrameworks/CloudKitDistributedSync.framework/Versions/A/CloudKitDistributedSync
+2023-03-05T20:54:53.093Z In(05) mks  [1C56B2000-1C56BB000): /System/Library/Frameworks/PushKit.framework/Versions/A/PushKit
+2023-03-05T20:54:53.093Z In(05) mks  [214EFC000-214F39000): /System/Library/Frameworks/CoreTransferable.framework/Versions/A/CoreTransferable
+2023-03-05T20:54:53.093Z In(05) mks  [1EF192000-1EF1EEFF5): /System/Library/Frameworks/CryptoKit.framework/Versions/A/CryptoKit
+2023-03-05T20:54:53.093Z In(05) mks  [1F34EF000-1F34EFFFC): /System/Library/PrivateFrameworks/FeatureFlags.framework/Versions/A/FeatureFlags
+2023-03-05T20:54:53.093Z In(05) mks  [1E7770000-1E778FFFD): /usr/lib/swift/libswiftAVFoundation.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D162F000-1D1637FFC): /usr/lib/swift/libswiftCoreAudio.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D5F5F000-1D5F61FF2): /usr/lib/swift/libswiftCoreLocation.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D5F62000-1D5F6BFF4): /usr/lib/swift/libswiftCoreMIDI.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1E63B8000-1E63F0FFB): /usr/lib/swift/libswiftCoreMedia.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1DBCD1000-1DBCD8FFC): /usr/lib/swift/libswiftMetal.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1DF153000-1DF154FF6): /usr/lib/swift/libswiftQuartzCore.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1E301D000-1E302BFFE): /usr/lib/swift/libswiftUniformTypeIdentifiers.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D44CA000-1D44E1FF4): /usr/lib/swift/libswiftsimd.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C546C000-1C54A4000): /System/Library/PrivateFrameworks/AppleIDSSOAuthentication.framework/Versions/A/AppleIDSSOAuthentication
+2023-03-05T20:54:53.093Z In(05) mks  [1C5016000-1C505A000): /System/Library/PrivateFrameworks/AppSupport.framework/Versions/A/AppSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1BE273000-1BE2EC000): /System/Library/PrivateFrameworks/IMFoundation.framework/Versions/A/IMFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1CBF35000-1CBF36000): /System/Library/PrivateFrameworks/Marco.framework/Versions/A/Marco
+2023-03-05T20:54:53.093Z In(05) mks  [1BF679000-1BF895000): /System/Library/PrivateFrameworks/IDSFoundation.framework/Versions/A/IDSFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1B626E000-1B6289000): /System/Library/PrivateFrameworks/CommonUtilities.framework/Versions/A/CommonUtilities
+2023-03-05T20:54:53.093Z In(05) mks  [1D11C8000-1D1218000): /System/Library/PrivateFrameworks/FTServices.framework/Versions/A/FTServices
+2023-03-05T20:54:53.093Z In(05) mks  [1C90B8000-1C90D0000): /System/Library/PrivateFrameworks/Engram.framework/Versions/A/Engram
+2023-03-05T20:54:53.093Z In(05) mks  [1C905A000-1C908BFF8): /usr/lib/libtidy.A.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1BCB5D000-1BCBC7000): /System/Library/PrivateFrameworks/Bom.framework/Versions/A/Bom
+2023-03-05T20:54:53.093Z In(05) mks  [1BE5E9000-1BE650FC4): /usr/lib/libParallelCompression.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1DC257000-1DC276000): /System/Library/PrivateFrameworks/FTAWD.framework/Versions/A/FTAWD
+2023-03-05T20:54:53.093Z In(05) mks  [1C7053000-1C707D000): /System/Library/PrivateFrameworks/RTCReporting.framework/Versions/A/RTCReporting
+2023-03-05T20:54:53.093Z In(05) mks  [1BFDBA000-1C18E4000): /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/GeoServices
+2023-03-05T20:54:53.093Z In(05) mks  [1BE2EC000-1BE321000): /System/Library/PrivateFrameworks/LocationSupport.framework/Versions/A/LocationSupport
+2023-03-05T20:54:53.093Z In(05) mks  [2213D8000-2213DD000): /System/Library/PrivateFrameworks/GeoServicesCore.framework/Versions/A/GeoServicesCore
+2023-03-05T20:54:53.093Z In(05) mks  [1EEF93000-1EF016FF3): /usr/lib/swift/libswiftNetwork.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C55FE000-1C5604000): /System/Library/PrivateFrameworks/CryptoKitCBridging.framework/Versions/A/CryptoKitCBridging
+2023-03-05T20:54:53.093Z In(05) mks  [1C35BC000-1C361A000): /System/Library/Frameworks/CryptoTokenKit.framework/Versions/A/CryptoTokenKit
+2023-03-05T20:54:53.093Z In(05) mks  [1E63B6000-1E63B7FFB): /usr/lib/swift/libswiftCryptoTokenKit.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C361A000-1C3664000): /System/Library/Frameworks/LocalAuthentication.framework/Versions/A/LocalAuthentication
+2023-03-05T20:54:53.093Z In(05) mks  [1C3664000-1C3695000): /System/Library/Frameworks/LocalAuthentication.framework/Support/SharedUtils.framework/Versions/A/SharedUtils
+2023-03-05T20:54:53.093Z In(05) mks  [1CF4EE000-1CF4F4FF8): /usr/lib/swift/libswiftCoreGraphics.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [225E43000-225F9AFF8): /System/Library/PrivateFrameworks/MilAneflow.framework/Versions/A/MilAneflow
+2023-03-05T20:54:53.093Z In(05) mks  [1C707D000-1C7241000): /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitLegacy
+2023-03-05T20:54:53.093Z In(05) mks  [1CC84D000-1CEEED000): /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/WebCore
+2023-03-05T20:54:53.093Z In(05) mks  [1CC822000-1CC84D000): /usr/lib/libAccessibility.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C54A4000-1C54FE000): /System/Library/PrivateFrameworks/CorePrediction.framework/Versions/A/CorePrediction
+2023-03-05T20:54:53.093Z In(05) mks  [1C1C72000-1C1C97000): /usr/lib/libnetworkextension.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B8948000-1B914BFA0): /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Frameworks/libwebrtc.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1CF56C000-1CF5BC000): /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/Versions/A/SafariSafeBrowsing
+2023-03-05T20:54:53.093Z In(05) mks  [1BE651000-1BE689000): /System/Library/Frameworks/SecurityInterface.framework/Versions/A/SecurityInterface
+2023-03-05T20:54:53.093Z In(05) mks  [1D1C18000-1D1C1C000): /System/Library/PrivateFrameworks/WebInspectorUI.framework/Versions/A/WebInspectorUI
+2023-03-05T20:54:53.093Z In(05) mks  [218E35000-2191E5000): /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Frameworks/libANGLE-shared.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [233902000-233946000): /System/Library/PrivateFrameworks/WebGPU.framework/Versions/A/WebGPU
+2023-03-05T20:54:53.093Z In(05) mks  [1BF2CB000-1BF4F0000): /System/Library/Frameworks/NetworkExtension.framework/Versions/A/NetworkExtension
+2023-03-05T20:54:53.093Z In(05) mks  [1D3527000-1D3B9B000): /System/Library/Frameworks/SceneKit.framework/Versions/A/SceneKit
+2023-03-05T20:54:53.093Z In(05) mks  [1D511B000-1D5128000): /System/Library/PrivateFrameworks/CaptiveNetwork.framework/Versions/A/CaptiveNetwork
+2023-03-05T20:54:53.093Z In(05) mks  [1C4EE1000-1C4F19000): /System/Library/PrivateFrameworks/EAP8021X.framework/Versions/A/EAP8021X
+2023-03-05T20:54:53.093Z In(05) mks  [1DFC11000-1DFDD6000): /System/Library/Frameworks/ModelIO.framework/Versions/A/ModelIO
+2023-03-05T20:54:53.093Z In(05) mks  [1C1C32000-1C1C5E000): /System/Library/Frameworks/GLKit.framework/Versions/A/GLKit
+2023-03-05T20:54:53.093Z In(05) mks  [23A686000-23A68E000): /usr/lib/usd/libIex.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A642000-23A686000): /usr/lib/usd/libHalf.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A562000-23A641FF8): /usr/lib/usd/libAlembic.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A792000-23B2BE000): /usr/lib/usd/libusd_ms.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A722000-23A772000): /usr/lib/usd/libosdCPU.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A696000-23A69E000): /usr/lib/usd/libImath.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A692000-23A696000): /usr/lib/usd/libIlmThread.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A68E000-23A692000): /usr/lib/usd/libIexMath.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A772000-23A792000): /usr/lib/usd/libtbb.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A69E000-23A6FDFFC): /usr/lib/usd/libMaterialXCore.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [23A6FE000-23A722000): /usr/lib/usd/libMaterialXFormat.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [231876000-23187A000): /System/Library/PrivateFrameworks/USDLib_FormatLoaderProxy.framework/Versions/A/USDLib_FormatLoaderProxy
+2023-03-05T20:54:53.093Z In(05) mks  [1D11AA000-1D11AF000): /System/Library/PrivateFrameworks/CoreOptimization.framework/Versions/A/CoreOptimization
+2023-03-05T20:54:53.093Z In(05) mks  [1B58F3000-1B593A000): /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Versions/A/WirelessDiagnostics
+2023-03-05T20:54:53.093Z In(05) mks  [1C8C4E000-1C8FE2000): /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Versions/A/Libraries/libAWDSupportFramework.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B583C000-1B587A000): /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Versions/A/Libraries/libAWDSupport.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B58DF000-1B58F3000): /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Versions/A/Libraries/libprotobuf-lite.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1BEDBD000-1BEE48000): /usr/lib/libTelephonyUtilDynamic.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B587A000-1B58DF000): /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Versions/A/Libraries/libprotobuf.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D6575000-1D657D000): /System/Library/PrivateFrameworks/MSUDataAccessor.framework/Versions/A/MSUDataAccessor
+2023-03-05T20:54:53.093Z In(05) mks  [1E31E0000-1E31F4000): /usr/lib/libpartition2_dynamic.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D2D9F000-1D2DF6FF8): /usr/lib/libbootpolicy.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C2451000-1C24CD000): /System/Library/PrivateFrameworks/ContactsPersistence.framework/Versions/A/ContactsPersistence
+2023-03-05T20:54:53.093Z In(05) mks  [1C262C000-1C27F0000): /System/Library/Frameworks/Contacts.framework/Versions/A/Contacts
+2023-03-05T20:54:53.093Z In(05) mks  [1C23A1000-1C2451000): /System/Library/PrivateFrameworks/ContactsFoundation.framework/Versions/A/ContactsFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1BC996000-1BC9B6000): /System/Library/PrivateFrameworks/login.framework/Versions/A/login
+2023-03-05T20:54:53.093Z In(05) mks  [1C356E000-1C35A9000): /System/Library/PrivateFrameworks/vCard.framework/Versions/A/vCard
+2023-03-05T20:54:53.093Z In(05) mks  [21C851000-21C855000): /System/Library/PrivateFrameworks/ContactsMetrics.framework/Versions/A/ContactsMetrics
+2023-03-05T20:54:53.093Z In(05) mks  [1C1938000-1C1949FFB): /System/Library/PrivateFrameworks/AppleLDAP.framework/Versions/A/AppleLDAP
+2023-03-05T20:54:53.093Z In(05) mks  [1C525C000-1C5319000): /System/Library/Frameworks/ClassKit.framework/Versions/A/ClassKit
+2023-03-05T20:54:53.093Z In(05) mks  [1C6DF9000-1C6EB7000): /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/CoreSuggestions
+2023-03-05T20:54:53.093Z In(05) mks  [1E74CA000-1E74CC000): /usr/lib/swift/libswiftOSLog.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B8225000-1B82D9000): /System/Library/PrivateFrameworks/CloudDocs.framework/Versions/A/CloudDocs
+2023-03-05T20:54:53.093Z In(05) mks  [1BFADD000-1BFAF2000): /System/Library/PrivateFrameworks/AppContainer.framework/Versions/A/AppContainer
+2023-03-05T20:54:53.093Z In(05) mks  [1BFAF2000-1BFAF6000): /System/Library/PrivateFrameworks/SecCodeWrapper.framework/Versions/A/SecCodeWrapper
+2023-03-05T20:54:53.093Z In(05) mks  [1C44FF000-1C4B01000): /System/Library/Frameworks/Intents.framework/Versions/A/Intents
+2023-03-05T20:54:53.093Z In(05) mks  [1C63D4000-1C645D000): /System/Library/PrivateFrameworks/ProactiveSupport.framework/Versions/A/ProactiveSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1BB4A9000-1BB57A000): /System/Library/Frameworks/CoreSpotlight.framework/Versions/A/CoreSpotlight
+2023-03-05T20:54:53.093Z In(05) mks  [1CC291000-1CC2B8000): /System/Library/PrivateFrameworks/ProactiveEventTracker.framework/Versions/A/ProactiveEventTracker
+2023-03-05T20:54:53.093Z In(05) mks  [1C56A1000-1C56B2000): /System/Library/PrivateFrameworks/IntentsFoundation.framework/Versions/A/IntentsFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1BECCA000-1BED42000): /System/Library/PrivateFrameworks/MobileAsset.framework/Versions/A/MobileAsset
+2023-03-05T20:54:53.093Z In(05) mks  [1C5258000-1C525C000): /System/Library/PrivateFrameworks/InternationalTextSearch.framework/Versions/A/InternationalTextSearch
+2023-03-05T20:54:53.093Z In(05) mks  [1D68E1000-1D693D000): /System/Library/PrivateFrameworks/SoftwareUpdateCoreSupport.framework/Versions/A/SoftwareUpdateCoreSupport
+2023-03-05T20:54:53.093Z In(05) mks  [1DC99C000-1DC9B0000): /System/Library/PrivateFrameworks/SoftwareUpdateCoreConnect.framework/Versions/A/SoftwareUpdateCoreConnect
+2023-03-05T20:54:53.093Z In(05) mks  [1C562B000-1C5656000): /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/StreamingZip
+2023-03-05T20:54:53.093Z In(05) mks  [1ED330000-1ED462FFD): /System/Library/PrivateFrameworks/InternalSwiftProtobuf.framework/Versions/A/InternalSwiftProtobuf
+2023-03-05T20:54:53.093Z In(05) mks  [1ED11A000-1ED12A000): /System/Library/Frameworks/OSLog.framework/Versions/A/OSLog
+2023-03-05T20:54:53.093Z In(05) mks  [1D8583000-1D8E0B000): /System/Library/Frameworks/Vision.framework/libfaceCore.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D8F70000-1D8F89000): /System/Library/PrivateFrameworks/Futhark.framework/Versions/A/Futhark
+2023-03-05T20:54:53.093Z In(05) mks  [1DBABB000-1DBB27000): /System/Library/PrivateFrameworks/InertiaCam.framework/Versions/A/InertiaCam
+2023-03-05T20:54:53.093Z In(05) mks  [1BC0DB000-1BC1C3000): /System/Library/PrivateFrameworks/CVNLP.framework/Versions/A/CVNLP
+2023-03-05T20:54:53.093Z In(05) mks  [23084A000-230852000): /System/Library/PrivateFrameworks/TranslationUIServices.framework/Versions/A/TranslationUIServices
+2023-03-05T20:54:53.093Z In(05) mks  [1C3A77000-1C44AB000): /System/Library/PrivateFrameworks/EmbeddedAcousticRecognition.framework/Versions/A/EmbeddedAcousticRecognition
+2023-03-05T20:54:53.093Z In(05) mks  [1E5EC6000-1E609E000): /System/Library/PrivateFrameworks/Osprey.framework/Versions/A/Osprey
+2023-03-05T20:54:53.093Z In(05) mks  [1D52BC000-1D551AFF4): /usr/lib/libmorphun.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D5906000-1D5F45000): /System/Library/PrivateFrameworks/SiriInstrumentation.framework/Versions/A/SiriInstrumentation
+2023-03-05T20:54:53.093Z In(05) mks  [22A1E9000-22A240000): /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/SiriAnalytics
+2023-03-05T20:54:53.093Z In(05) mks  [1C8109000-1C8351000): /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/AssistantServices
+2023-03-05T20:54:53.093Z In(05) mks  [1DBCF8000-1DBDAD000): /System/Library/Frameworks/SoundAnalysis.framework/Versions/A/SoundAnalysis
+2023-03-05T20:54:53.093Z In(05) mks  [1D4F9C000-1D4FF1000): /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/DistributedEvaluation
+2023-03-05T20:54:53.093Z In(05) mks  [1D84CA000-1D850B000): /System/Library/PrivateFrameworks/EmojiFoundation.framework/Versions/A/EmojiFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [1DEC57000-1DEFF2FFC): /System/Library/PrivateFrameworks/SDAPI.framework/Versions/A/SDAPI
+2023-03-05T20:54:53.093Z In(05) mks  [1D8F89000-1D8FFEFE0): /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/Versions/A/DifferentialPrivacy
+2023-03-05T20:54:53.093Z In(05) mks  [1B4527000-1B4741000): /System/Library/PrivateFrameworks/CoreDuet.framework/Versions/A/CoreDuet
+2023-03-05T20:54:53.093Z In(05) mks  [1CF239000-1CF31D000): /System/Library/PrivateFrameworks/CoreParsec.framework/Versions/A/CoreParsec
+2023-03-05T20:54:53.093Z In(05) mks  [1D1E88000-1D20AF000): /System/Library/PrivateFrameworks/SearchFoundation.framework/Versions/A/SearchFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [224CFE000-224D44000): /System/Library/PrivateFrameworks/LighthouseBitacoraFramework.framework/Versions/A/LighthouseBitacoraFramework
+2023-03-05T20:54:53.093Z In(05) mks  [1D1D98000-1D1E14000): /System/Library/PrivateFrameworks/TrialProto.framework/Versions/A/TrialProto
+2023-03-05T20:54:53.093Z In(05) mks  [1D1E14000-1D1E88000): /System/Library/PrivateFrameworks/Trial.framework/Versions/A/Trial
+2023-03-05T20:54:53.093Z In(05) mks  [1E0B7C000-1E0BBC000): /System/Library/PrivateFrameworks/BiomePubSub.framework/Versions/A/BiomePubSub
+2023-03-05T20:54:53.093Z In(05) mks  [1C311B000-1C3222000): /System/Library/Frameworks/CoreTelephony.framework/Versions/A/CoreTelephony
+2023-03-05T20:54:53.093Z In(05) mks  [1C6545000-1C6545FFC): /System/Library/PrivateFrameworks/CoreDuetDaemonProtocol.framework/Versions/A/CoreDuetDaemonProtocol
+2023-03-05T20:54:53.093Z In(05) mks  [1C39E1000-1C3A77000): /System/Library/PrivateFrameworks/Rapport.framework/Versions/A/Rapport
+2023-03-05T20:54:53.093Z In(05) mks  [1D9DF3000-1D9E00000): /System/Library/PrivateFrameworks/BiomeFoundation.framework/Versions/A/BiomeFoundation
+2023-03-05T20:54:53.093Z In(05) mks  [22795A000-22833DFF8): /System/Library/PrivateFrameworks/PegasusAPI.framework/Versions/A/PegasusAPI
+2023-03-05T20:54:53.093Z In(05) mks  [21B5C1000-21B71B000): /System/Library/PrivateFrameworks/BiomeLibrary.framework/Versions/A/BiomeLibrary
+2023-03-05T20:54:53.093Z In(05) mks  [1DC613000-1DC759000): /System/Library/PrivateFrameworks/BiomeStreams.framework/Versions/A/BiomeStreams
+2023-03-05T20:54:53.093Z In(05) mks  [1E0BBC000-1E0BF6000): /System/Library/PrivateFrameworks/BiomeStorage.framework/Versions/A/BiomeStorage
+2023-03-05T20:54:53.093Z In(05) mks  [21B5A5000-21B5C1000): /System/Library/PrivateFrameworks/BiomeFlexibleStorage.framework/Versions/A/BiomeFlexibleStorage
+2023-03-05T20:54:53.093Z In(05) mks  [21B58B000-21B5A5000): /System/Library/PrivateFrameworks/BiomeDSL.framework/Versions/A/BiomeDSL
+2023-03-05T20:54:53.093Z In(05) mks  [1C7245000-1C725D000): /System/Library/PrivateFrameworks/Seeding.framework/Versions/A/Seeding
+2023-03-05T20:54:53.093Z In(05) mks  [1D3DF2000-1D3E07000): /System/Library/PrivateFrameworks/FeedbackLogger.framework/Versions/A/FeedbackLogger
+2023-03-05T20:54:53.093Z In(05) mks  [1C3801000-1C38BE000): /System/Library/PrivateFrameworks/SAObjects.framework/Versions/A/SAObjects
+2023-03-05T20:54:53.093Z In(05) mks  [1C7BF2000-1C8109000): /System/Library/PrivateFrameworks/MediaRemote.framework/Versions/A/MediaRemote
+2023-03-05T20:54:53.093Z In(05) mks  [1CBE1C000-1CBE7E000): /System/Library/PrivateFrameworks/MediaServices.framework/Versions/A/MediaServices
+2023-03-05T20:54:53.093Z In(05) mks  [1BC42C000-1BC457000): /System/Library/PrivateFrameworks/PersistentConnection.framework/Versions/A/PersistentConnection
+2023-03-05T20:54:53.093Z In(05) mks  [1D1A77000-1D1BF3000): /System/Library/Frameworks/PencilKit.framework/Versions/A/PencilKit
+2023-03-05T20:54:53.093Z In(05) mks  [1D1BF3000-1D1C0B000): /System/Library/PrivateFrameworks/SidecarUI.framework/Versions/A/SidecarUI
+2023-03-05T20:54:53.093Z In(05) mks  [1D165A000-1D1833000): /System/Library/PrivateFrameworks/CoreHandwriting.framework/Versions/A/CoreHandwriting
+2023-03-05T20:54:53.093Z In(05) mks  [1DF12F000-1DF152FFE): /usr/lib/swift/libswiftAppKit.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1D1658000-1D1659000): /usr/lib/swift/libswiftCoreImage.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1B0C90000-1B0F09000): /usr/lib/libmecabra.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1BBF8A000-1BBF92000): /usr/lib/libChineseTokenizer.dylib
+2023-03-05T20:54:53.093Z In(05) mks  [1C1C97000-1C1CB0000): /System/Library/Frameworks/Accessibility.framework/Versions/A/Accessibility
+2023-03-05T20:54:53.093Z In(05) mks  [212F4C000-213521000): /System/Library/Extensions/AGXMetal13_3.bundle/Contents/MacOS/AGXMetal13_3
+2023-03-05T20:54:53.093Z In(05) mks  [1D162B000-1D162F000): /System/Library/PrivateFrameworks/GPURawCounter.framework/Versions/A/GPURawCounter
+2023-03-05T20:54:53.093Z In(05) mks  [1CB8AA000-1CB8E3000): /System/Library/PrivateFrameworks/IOGPU.framework/Versions/A/IOGPU
+2023-03-05T20:54:53.093Z In(05) mks  End printing loaded objects
+2023-03-05T20:54:53.093Z In(05) mks  Exiting
